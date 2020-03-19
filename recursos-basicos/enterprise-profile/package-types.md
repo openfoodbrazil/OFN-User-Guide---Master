@@ -1,37 +1,37 @@
-# Package / profile types
+# Tipos de Perfil
 
-When you first log in to the admin dashboard, you will need to choose the OFN profile which [best matches your business model](../../your-quick-start-on-ofn-given-who-you-are.md). **Without this step, your enterprise account will not be created and, hence, your enterprise will remain invisible on our map.** To access the admin dashboard, login and then click on "Profile &gt; Administration" at the top right:
+Ao acessar o seu painel de controle pela primeira vez, você precisará escolher o tipo de perfil que melhor representa o [modelo da sua iniciativa.](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2_FAGXWCqdgDD2kd2i/your-quick-start-on-ofn-given-who-you-are/@drafts) Sem essa etapa, sua iniciativa não será registrada, e portanto não aparecerá no nosso mapa. Para aceessar o painel de controle, faça o login e então clique em "Perfil &gt; Administração" no canto superior direito:
 
 ![](../../.gitbook/assets/access1.jpg)
 
-Once in the admin dashboard, you are prompted to choose a profile type for the enterprise you have created. Based on this choice, menus that help you refine your profile and access the features you need will be made available on your [enterprise settings page](enterprise-settings.md).
+De acordo com o tipo de perfil escolhido por você ao acessar o painel de controle, os menus de que vão te ajudar a detalhar seu perfil e acessar recursos ficarão disponíveis na página de [configurações.](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2_FAGXWCqdgDD2kd2i/recursos-basicos/enterprise-profile/enterprise-settings/@drafts)
 
 {% hint style="info" %}
-Be careful, the process will be slightly different if you are creating your second, third, fourth... enterprise. This process applies for first enterprise created by a user only!
+Atenção: o processo será ligeiramente diferente quando você for criar outras iniciativas. Este passo a passo se aplica somente à primeira iniciativa criada pelo usuário em questão!
 {% endhint %}
 
-Open Food Network offers three types of enterprise profiles that will differ depending on whether you are a producer or not, and whether or not you want to open an online shop to sell on the Open Food Network. The profiles types vary a little bit depending on if you are are a producer or not, so we describe them below under two main sections: the profiles for producers and then the profiles for distributors \(or "hubs" in the Open Food Network world :-\)\).
+A OFN oferece três tipos de perfis de iniciativa para atender a quem é produtor, quem não é e quem quer vender produtos na plataforma ou não. Esses tipos de perfil variam entre si, então vamos descrevê-los abaixo a partir de duas seções: para produtores e para distribuidores \(ou "centrais", no mundo da OFN\).
 
-## For Producers
+## Para Produtores
 
-There are three types of profiles for producers:
+Estão disponíveis 3 tipos de perfis para produtores:
 
-![The above is an example only, fees vary between OFN instances and countries.](../../.gitbook/assets/profileproducers.png)
+![A imagem acima &#xE9; s&#xF3; um exemplo.](../../.gitbook/assets/profileproducers.png)
 
 {% tabs %}
-{% tab title="Producer Profile" %}
-With this option not only will your enterprise will be visible on the OFN map and to customers searching our platform, but you will be able to manage a product catalog. Your products can be distributed and sold through other enterprises which are part of the OFN network.
+{% tab title="Perfil de Produtor" %}
+Essa opção te dá a possiblidade de ser visto por consumidores que navegarem pela plataforma, mas também de gerenciar seu catálogo de produtos. Seus produtos poderão ser distribuídos e vendidos por outras iniciativas que fazem parte da OFN.
 
-As a 'Producer Profile' you will not be able to manage your own online shop front. For more information on the quick setup guide for this type of profile, [click here](../../guias-de-inicio-rapido/).
+Com um 'Perfil de Produtor' você não poderá gerenciar sua própria loja online. Para acessar o guia de início rápido para este tipo de perfil, [clique aqui.](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2_FAGXWCqdgDD2kd2i/guias-de-inicio-rapido/@drafts)
 
 {% hint style="info" %}
-If you'd like to retail your products on an existing online sales platform and just use OFN to increase your visibility then the 'Producer Profile' package is for you!
+Se você quiser vender seus produtos em outra plataforma e usar a OFN somente para aumentar a sua visibilidade, então o "Perfil de Produtor" foi feito para você. 
 
-You can put the link to your online shop in your enterprise description.
+Você pode inserir o link para sua loja online na descrição da sua iniciativa. 
 {% endhint %}
 {% endtab %}
 
-{% tab title="Producer shop" %}
+{% tab title="Loja de Produtor" %}
 ### You would like to sell only your own products on OFN
 
 This option allows you to run a shopfront which retails only those products in your own catalog. Note that 'Producer Shops' can conduct sales through their own shopfront and/or act as a supplier to other shopfronts \(hubs\).

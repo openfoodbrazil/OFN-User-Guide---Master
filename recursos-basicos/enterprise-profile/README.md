@@ -1,12 +1,14 @@
-# Enterprise profile
+# Perfil da Iniciativa
 
-Once you have [created your Enterprise account](../register-and-create-your-profile.md#create-your-first-enterprise-account), you must log in to your Administration [Dashboard](../dashboard.md) to continue setting up your Enterprise profile.
+Uma vez[ criada uma conta para a sua Iniciativa](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2_FAGXWCqdgDD2kd2i/recursos-basicos/register-and-create-your-profile#create-your-first-enterprise-account/@drafts), você precisa fazer o login e acessar o [Painel de Controle](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2_FAGXWCqdgDD2kd2i/recursos-basicos/dashboard/@drafts) para continuar configurando o seu perfil.
 
-First you will be asked to [choose the OFN package](package-types.md) \(or type of profile\) which best represents your [business model](../../your-quick-start-on-ofn-given-who-you-are.md).
+Antes de mais nada você precisará escolher o tipo de perfil que melhor representa o [modelo da sua iniciativa.](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2_FAGXWCqdgDD2kd2i/your-quick-start-on-ofn-given-who-you-are/@drafts)
 
-In this section we detail the different menus that you can complete to refine your enterprise profile and, by doing so, access business-specific features that you may need.
+Nesta sessão seram detalhadas as diferentes áreas que você pode completar para refinar o seu perfil e, então, acessar recursos específicos que sua atividade pode precisar.
 
 {% hint style="info" %}
-It is important to complete the whole process otherwise your enterprise might not appear on the map, or appear with a partially filled in profile, which can affect your image.
+É importante completar todo o processo, caso contrário sua iniciativa poderá não aparecer no mapa, ou aparecer com informações incompletas, o que pode afetar a sua imagem.
 {% endhint %}
+
+
 
