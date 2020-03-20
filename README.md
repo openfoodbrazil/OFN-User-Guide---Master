@@ -1,11 +1,5 @@
 # Guia de Usuário da OFN
 
-| Language version | Link to the user guide |
-| :--- | :--- |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-19.png) | _You are reading the English version !_ |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-38-01.png) | [Accéder à la version française du guide utilisateur Open Food Network](https://ofnuserguidefr.gitbook.io/guide-utilisateur-open-food-network/) |
-| ![](.gitbook/assets/capture-du-2019-09-26-00-37-35.png) | [Accediu a la versió catalana de la guia d'usuari de Open Food Network](https://guia.katuma.org/) |
-
 **Este guia foi feito para te ajudar a utilizar, da melhor maneira, os recursos da plataforma Open Food Network.** 
 
 ## Visão Geral
