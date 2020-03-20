@@ -10,8 +10,6 @@ A Open Food Network é um projeto global que dá suporte à iniciativas locais. 
 
 Este curto vídeo é uma pequena introdução ao funcionamento da Open Food Network, e o que a plataforma pode fazer pela sua iniciativa.
 
-{% embed url="http://www.youtube.com/embed/eA3IcMUnU14" caption="" %}
-
 ## Como usar este guia?
 
 ### &gt; Guias rápidos de configuração, formatados para todos os perfis de usuários.
