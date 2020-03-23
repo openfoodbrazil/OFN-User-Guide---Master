@@ -1,14 +1,14 @@
-# Guia de Usuário da OFN
+# Manual de Usuário da OFB
 
 **Este guia foi feito para te ajudar a utilizar, da melhor maneira, os recursos da plataforma Open Food Network.** 
 
 ## Visão Geral
 
-A Open Food Network permite que as pessoas construam maneiras melhores e mais justas de comercializar alimentos produzidos localmente. Redes de pequenos produtores, cooperativas, sacolões, feiras, lojas especializadas, grupos de compras e CSAs podem se unir através da plataforma para encurtar as distâncias entre produção e consumo, e construir comunidades mais fortes e resilientes. 
+A Open Food Brasil permite que as pessoas construam maneiras melhores e mais justas de comercializar alimentos produzidos localmente. Redes de pequenos produtores, cooperativas, sacolões, feiras, lojas especializadas, grupos de compras e CSAs podem se unir através da plataforma para encurtar as distâncias entre produção e consumo, e construir comunidades mais fortes e resilientes. 
 
-A Open Food Network é um projeto global que dá suporte à iniciativas locais. Nosso software foi construído com um código aberto \('open source'\) por pessoas de todo o mundo que continuam a desenvolvê-lo. 
+A Open Food Brasil faz parte da Open Food Network, um projeto global que dá suporte a iniciativas locais. Nosso software foi construído com um código aberto \('open source'\) por pessoas de todo o mundo que continuam a desenvolvê-lo. 
 
-Este curto vídeo é uma pequena introdução ao funcionamento da Open Food Network, e o que a plataforma pode fazer pela sua iniciativa.
+Este curto vídeo é uma pequena introdução ao funcionamento da Open Food Brasil, e o que a plataforma pode fazer pela sua iniciativa.
 
 ## Como usar este guia?
 
@@ -17,7 +17,7 @@ Este curto vídeo é uma pequena introdução ao funcionamento da Open Food Netw
 Começando do zero, abra uma conta que atenda às suas necessidades [em pouquíssimos passos](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/your-quick-start-on-ofn-given-who-you-are)!
 
 {% hint style="info" %}
-Recomendamos este guia para usuários que nunca utilizaram a Open Food Network.
+Recomendamos este guia para usuários que nunca utilizaram a Open Food Brasil.
 {% endhint %}
 
 ### &gt; Recursos feitos para você.

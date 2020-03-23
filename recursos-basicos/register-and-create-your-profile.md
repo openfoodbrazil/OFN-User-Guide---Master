@@ -42,7 +42,7 @@ Seu endereço será utilizado para incluir sua iniciativa no nosso mapa e aument
 
 **Sua primeira 'iniciativa' foi criada e você completou as informações do perfil, mas ainda não terminou!**
 
-**O próximo passo é escolher o**[ **tipo de perfil**](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/recursos-basicos/enterprise-profile/package-types/@drafts) **que melhor representa a sua atividade. Após ter feito isso, sua iniciativa entrará para o mapa da OFN!**
+**O próximo passo é escolher o**[ **tipo de perfil**](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/recursos-basicos/enterprise-profile/package-types/@drafts) **que melhor representa a sua atividade. Após ter feito isso, sua iniciativa entrará para o mapa da OFB!**
 
 ![](../.gitbook/assets/registration.gif)
 

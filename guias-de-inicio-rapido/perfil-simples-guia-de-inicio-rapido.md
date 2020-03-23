@@ -1,12 +1,12 @@
 ---
-description: Simple steps to get started as a OFN profile.
+description: Um simples passo a passo para você criar seu Perfil Simples na OFB.
 ---
 
 # Perfil Simples
 
-It's easy to get started on OFN, just follow the steps below:
+It's easy to get started on OFB, just follow the steps below:
 
-![Four steps to start your OFN journey.](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
+![Quatro passos para come&#xE7;ar sua jornada na OFB](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
 
 1. [Registre seu perfil](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/register-and-create-your-profile).  Selecione a opção 'Produtor' e em seguida 'Perfil Simples'. Complete as [configurações](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/enterprise-profile/enterprise-settings) com os dados da sua iniciativa.
 2. Liste seus [produtos](../recursos-basicos/products-1/products.md).
@@ -18,7 +18,7 @@ Parabéns, você configurou seu perfil!
 O gestor da sua central parceira deverá te enviar pedidos periodicamente, de acordo com o combinado de vocês. A Central em questão pode configurar as notificações de pedidos para que eles sejam enviados automaticamente para o seu email. 
 
 {% hint style="info" %}
-Se o seu objetivo é apenas ganhar visibilidade através da OFN, então não é preciso completar as etapas de 2 a 4.  
+Se o seu objetivo é apenas ganhar visibilidade através da OFB, então não é preciso completar as etapas de 2 a 4.  
 {% endhint %}
 
 {% hint style="success" %}

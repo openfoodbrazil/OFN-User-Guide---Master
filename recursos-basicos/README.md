@@ -1,12 +1,12 @@
 ---
 description: >-
   Nesta seção vamos explorar todos os recursos oferecidos pela plataforma da
-  OFN.
+  OFB.
 ---
 
 # Recursos
 
-Você pode navegar por estes recurso sem seguir uma ordem específica, mas se você está apenas começando na OFN, recomendamos que acesse nossos [guias de início rápido](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/guias-de-inicio-rapido). You can browse these features at any time but for those just starting out we recommend our [quick start guides](../guias-de-inicio-rapido/).
+Você pode navegar por estes recurso sem seguir uma ordem específica, mas se você está apenas começando na OFB, recomendamos que acesse nossos [guias de início rápido](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/guias-de-inicio-rapido). 
 
 {% hint style="info" %}
 Para encontrar informações sobre um recursos específico, você pode utilizar a ferramenta de busca deste guia.

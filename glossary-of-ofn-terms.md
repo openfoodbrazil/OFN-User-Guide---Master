@@ -1,32 +1,31 @@
-# Glossary of OFN Terms
+# Glossário de Termos da OFB
 
-* [Bulk Order Management](recursos-basicos/orders/view-orders.md#bulk-order-management): This facility enables you to manipulate multiple orders at once, rather than individually.  It is useful for:
-  * buying groups who have to reach a minimum number of orders on an item before it is feasible to purchase the goods to redistribute to their customers
-  * Adjusting orders en-mass \(e.g. in the case of a crop failure/outbreak of illness\) preventing delivery of one or more items of produce.
-* [Enterprise Fee](recursos-basicos/shopfront/enterprise-fees.md): A margin or commission added to the base price of an item to cover business overhead costs or to make the enterprise profitable.
-* [Enterprise Permission](recursos-basicos/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md): A connection between suppliers and distributors on the platform. Without permission \(which needs to be granted by the supplier\), another enterprise can not edit your settings or list your products for sale.
-* [Group Buy](recursos-basicos/products-1/group-buy-for-bulk-ordering.md): Organising sales to customers where the goods are bought by the distributing hub in bulk, or for which there is a minimum order before a supplier is happy to deliver goods to a collection point.
-* [Hub](your-quick-start-on-ofn-given-who-you-are.md#hub): A food retail outlet on OFN which sells items supplied by others.  A hub can also sell goods which it makes or grows \(a Producer Hub\).  Analogous businesses on the high street might be a shop which buys in stock for re-sale from lots of different producers \(e.g. they might buy bread from a baker, vegetables from the local wholesale market, meat from the local farm...\). 
-* [Inventory](recursos-basicos/products-1/inventory-tool.md): A list of products which you wish to stock on your shop front.  By using the OFN inventory function a shopfront can change some of the product settings of produce from a third party supplier.
-* [Order Cycle](recursos-basicos/shopfront/order-cycle/): A period during which shoppers/buyers can place an order for delivery or collection at a specific time.  The order cycle controls when your online shop front is open/closed and which products are available at any one time for a customer to purchase.
-* [Private Shopfront](recursos-basicos/shopfront/private-shopfront.md): An online shop which is not open to for the general public.  Unless registered, no one can see what items are for sale, their prices or place an order.
-* [Producer](recursos-basicos/enterprise-profile/package-types.md#for-producers): A food enterprise which makes, grows, bakes, cooks, ... food which it can supply to other businesses for sale \(or sell directly on the OFN platform to customers\).
-* [Profile](your-quick-start-on-ofn-given-who-you-are.md#profile): A food enterprise on the OFN platform which supplies others only. They do not organise their own sales to customers on OFN. 
-* [Non-producer](recursos-basicos/enterprise-profile/package-types.md#for-non-producers-hubs): A food enterprise which only
+* [Gestão de Pedidos em Atacado: ](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/recursos-basicos/orders/view-orders#bulk-order-management/@drafts)este recurso permite gerenciar multiplos pedidos de uma vez, ao invés de individualmente. Isto é útil para:
 
-  distributes food and goods made and supplied by others.
+  * grupos de compra que precisam alcançar uma quantidade mínima de pedidos antes que seja possível comprar a mercadoria e redistribuí-la para os compradores.
+  * ajustar pedidos em massa \(ex: no caso de perdas na produção\), evitando a entrega de um ou mais itens.
 
-* [Shop](your-quick-start-on-ofn-given-who-you-are.md#shop): A food enterprise on OFN which makes, grows, cooks, ... food which they sell to customers in a shop front which lists only their items. OFN Shops can also act as suppliers to larger OFN distributors \(hubs\).
-* [Subscription](recursos-basicos/subscriptions/): A regular automated repeating order of goods from a customer \(e.g. a veg box\)
-* [Tags](recursos-basicos/shopfront/customer-management-and-conditional-displays-prices/): Labels given to customers, order cycles, payment methods and/or shipping methods which can be used to customise buyers' shopping experiences.
+* [Taxa da Iniciativa](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/recursos-basicos/shopfront/enterprise-fees/@drafts): a porcentagem cobrada pelo gestor da loja para cobrir os custos de manutenção das vendas e logísitica ou gerar lucro. 
+* [Permissão da Iniciativa:](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/recursos-basicos/enterprise-profile/enterprise-to-enterprise-permissions-e2es/@drafts) uma conexão entre fornecedor e distribuidor na plataforma. Sem a permissão \(que precisa ser concedida pelo fornecedor\), uma iniciativa não pode editar ou vender produtos de outra.
+* [Grupo de Compras:](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/recursos-basicos/products-1/group-buy-for-bulk-ordering/@drafts) um modo de organizar as vendas em que os produtos são comprados pela Central distribuidora no atacado, ou para o qual há uma quantidade de pedidos mínima para que o fornecedor possa fazer a entrega. 
+* [Central:](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/your-quick-start-on-ofn-given-who-you-are#hub/@drafts) uma distribuidora da OFB que vende produtos fornecidos por terceiros \(como uma mercearia ou sacolão\). Uma Central também pode vender produtos cultivados ou fabricados por ela mesma \(Central de Produtor\). 
+* [Inventário:](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/recursos-basicos/products-1/inventory-tool/@drafts) uma lista de produtos que você deseja disponibilizar na sua loja. Usando a função de inventário na OFN, uma loja virtual pode editar as configurações de produtos fornecidos por terceiros.
+* [Ciclo de Pedidos:](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/recursos-basicos/shopfront/order-cycle/@drafts) é o período em que compradores podem fazer pedidos em uma determinada loja. O ciclo de pedidos controla quando sua loja virtual está aberta ou fechada e quais produtos estão disponíveis em um determinado período para o comprador.
+* [Loja Virtual Privativa:](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/recursos-basicos/shopfront/private-shopfront/@drafts)uma loja virtual que não está aberta ao público em geral. Ninguém pode ver que produtos estão à venda, seus preços ou fazer um pedido, a menos que tenham um registro de acesso.
+* [Produtor:](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/recursos-basicos/enterprise-profile/package-types#for-producers/@drafts) uma iniciativa que cultiva ou fabrica produtos de gênero alimentar, que podem ser vendidos em uma loja virutal própria ou por outras lojas virtuais na OFB.
+* [Perfil Simples:](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/your-quick-start-on-ofn-given-who-you-are#profile/@drafts) uma iniciativa que não realiza vendas dentro da OFB - apenas fornece produtos para outras lojas virtuais.
+* [Não-Produtor:](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/your-quick-start-on-ofn-given-who-you-are#profile/@drafts) uma iniciativa que revende produtos fornecidos por terceiros, mas não produz nada.
+* [Loja:](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/your-quick-start-on-ofn-given-who-you-are#shop/@drafts) uma iniciativa da OFB que vende somente produtos que ela própria produz ou fabrica. Uma Loja também pode fornecer produtos para distribuidores na OFB \(Centrais\).  
+* [Assinatura](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/recursos-basicos/subscriptions/@drafts): pedidos automatizados e repetidos regularmente \(ex: cesta semanal de orgânicos\).
+* [Tags](recursos-basicos/shopfront/customer-management-and-conditional-displays-prices/): rótulos aplicados a clientes, ciclos de pedido, métodos de pagamento, e / ou modalidades de entrega que podem ser usados para personalizar a experiência de compra dos consumidores. 
 
-## Common Symbols Used on OFN
+## Símbolos comuns na plataforma
 
-![Copy](.gitbook/assets/copy.jpg)
+![Copiar](.gitbook/assets/copy.jpg)
 
-![Edit](.gitbook/assets/edit.png)
+![Editar](.gitbook/assets/edit.png)
 
-![Delete](.gitbook/assets/trash.jpg)
+![Deletar](.gitbook/assets/trash.jpg)
 
-![Shipping/Delivery](.gitbook/assets/shipped-2.png)
+![Encomenda / Entrega](.gitbook/assets/shipped-2.png)
 

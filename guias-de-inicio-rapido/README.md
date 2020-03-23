@@ -1,5 +1,5 @@
 ---
-description: Um simples passo a passo para você começar sua jornada na OFN
+description: Um simples passo a passo para você começar sua jornada na OFB
 ---
 
 # Guias de início rápido

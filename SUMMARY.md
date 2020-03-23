@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Guia de Usuário da OFN](README.md)
+* [Manual de Usuário da OFB](README.md)
 * [Local OFN organisations and contacts](local-ofn-organizations-and-contacts.md)
-* [Como a sua iniciativa pode usufruir da OFN?](your-quick-start-on-ofn-given-who-you-are.md)
+* [Como a sua iniciativa pode usufruir da OFB?](your-quick-start-on-ofn-given-who-you-are.md)
 * [Guias de início rápido](guias-de-inicio-rapido/README.md)
   * [Central](guias-de-inicio-rapido/centra-multi-produtores-guia-de-inicio-rapido.md)
   * [Loja](guias-de-inicio-rapido/loja-de-produtor-guia-de-inicio-rapido.md)
@@ -12,8 +12,8 @@
   * [Painel de Controle](recursos-basicos/dashboard.md)
   * [Perfil da Iniciativa](recursos-basicos/enterprise-profile/README.md)
     * [Tipos de Perfil](recursos-basicos/enterprise-profile/package-types.md)
-    * [Enterprise Settings](recursos-basicos/enterprise-profile/enterprise-settings.md)
-    * [Create or connect with your supplying producers](recursos-basicos/enterprise-profile/create-or-connect-with-your-supplying-producers.md)
+    * [Configurações da Iniciativa](recursos-basicos/enterprise-profile/enterprise-settings.md)
+    * [Conectando-se com seu fornecedor.](recursos-basicos/enterprise-profile/create-or-connect-with-your-supplying-producers.md)
     * [Making a producer profile searchable by product category](recursos-basicos/enterprise-profile/making-a-producer-profile-searchable-by-product-category.md)
     * [Enterprise Permissions](recursos-basicos/enterprise-profile/enterprise-to-enterprise-permissions-e2es.md)
     * [Change Profile Managers / Owners](recursos-basicos/enterprise-profile/transfer-ownership.md)
@@ -62,6 +62,6 @@
   * [Facebook tips](hub-management-tips/facebook-tips.md)
   * [Your farm on Facebook](hub-management-tips/your-farm-on-facebook.md)
 * [Trouble shooting](trouble-shooting.md)
-* [Glossary of OFN Terms](glossary-of-ofn-terms.md)
+* [Glossário de Termos da OFB](glossary-of-ofn-terms.md)
 * [Feedback](feedback.md)
 

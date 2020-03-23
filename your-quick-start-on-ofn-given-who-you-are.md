@@ -1,8 +1,8 @@
 ---
-description: Saiba em qual perfil da OFN sua iniciativa melhor se encaixa.
+description: Saiba em qual perfil da OFB sua iniciativa melhor se encaixa.
 ---
 
-# Como a sua iniciativa pode usufruir da OFN?
+# Como a sua iniciativa pode usufruir da OFB?
 
 Para cada tipo de atividade, a plataforma funciona de maneiras diferentes.
 
@@ -10,7 +10,7 @@ Nós classificamos as atividades em 3 categorias: [Perfil Simples](https://app.g
 
 ![](.gitbook/assets/l-flowchart-1.png)
 
-_A flexibilidade da OFN permite que você troque de Perfil Simples para Loja ou Central \(e vice versa\) de acordo com as necessidades da sua atividade._ 
+_A flexibilidade da OFB permite que você troque de Perfil Simples para Loja ou Central \(e vice versa\) de acordo com as necessidades da sua atividade._ 
 
 ## Central
 
@@ -24,7 +24,7 @@ Uma Central pode tomar vários nomes e formas mas, resumindo, uma iniciativa é 
 Se você prefere vender produtos que somente você produz, então o perfil '[Loja](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/your-quick-start-on-ofn-given-who-you-are#shop/@drafts)' é o mais adequado para você.
 {% endhint %}
 
-### Como a OFN pode ajudar sua Central a crescer:
+### Como a OFB pode ajudar sua Central a crescer:
 
 1. Aumentando sua visibilidade e alcance na internet.
 2. Fornecendo ao seu cliente uma experiência de feira livre 'virtual'.
@@ -33,9 +33,9 @@ Se você prefere vender produtos que somente você produz, então o perfil '[Loj
 5. Te ajudando a organizar pedidos repetidos regularmente, como esquemas de assinaturas de cestas. 
 6. Ajudando a construir uma rede robusta de relacionamento entre produtores e iniciativas locais.
 
-_Um perfil de 'Central' tem a maior flexibilidade entre os três tipos de perfis oferecidos pela OFN._
+_Um perfil de 'Central' tem a maior flexibilidade entre os três tipos de perfis oferecidos pela OFB._
 
-**É muito fácil criar seu perfil na na OFN:** siga os 5 passos descritos no nosso [guia de início rápido](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/quick-start-guides/multi-producers-shop-hub-quick-setup-guide/@drafts). 
+**É muito fácil criar seu perfil na na OFB:** siga os 5 passos descritos no nosso [guia de início rápido](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/quick-start-guides/multi-producers-shop-hub-quick-setup-guide/@drafts). 
 
 ## Loja
 
@@ -55,7 +55,7 @@ Como uma Loja; além de vender seus produtos online, você também pode fornecer
 Se você preferir não vender diretamente a seus consumidores, mas **apenas** fornecer produtos para uma Central, então o [Perfil Simples](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/your-quick-start-on-ofn-given-who-you-are#profile/@drafts) é o melhor perfil para você.
 {% endhint %}
 
-### Como a OFN pode ajudar sua Loja a crescer:
+### Como a OFB pode ajudar sua Loja a crescer:
 
 1. Aumentando sua visibilidade e alcance na internet.
 2. Streamlining your admin tasks with stock levels, orders, finances, packing reports all in one place.
@@ -78,10 +78,10 @@ Este tipo de perfil é ideal para aumentar a visibilidade online dos produtores 
 Se você prefere gerenciar suas vendas você mesmo, então os perfis '[Loja](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/your-quick-start-on-ofn-given-who-you-are#shop/@drafts)' ou '[Central](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/your-quick-start-on-ofn-given-who-you-are#hub/@drafts)' podem atender melhor as suas necessidades. 
 {% endhint %}
 
-### Como a OFN pode ajudar a sua atividade:
+### Como a OFB pode ajudar a sua atividade:
 
 1. Aumentando sua visibilidade online.
 2. Ajudando a construir uma forte rede de relacionamento entre você e os distribuidores locais, para os quais você pode fornecer seus produtos.
 
-**É muito fácil criar seu perfil na na OFN:** siga os 4 passos descritos no nosso [guia de início rápido. ](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/quick-start-guides/profile-only-quick-setup-guide/@drafts)
+**É muito fácil criar seu perfil na na OFB:** siga os 4 passos descritos no nosso [guia de início rápido. ](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/quick-start-guides/profile-only-quick-setup-guide/@drafts)
 

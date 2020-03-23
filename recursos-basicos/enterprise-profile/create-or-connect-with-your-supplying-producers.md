@@ -1,12 +1,14 @@
-# Create or connect with your supplying producers
+# Conectando-se com seu fornecedor.
 
 {% hint style="success" %}
-This page is relevant for users who have registered **Producer or Non-Producer Hub** enterprises only.
+Esta página é relevante somente para usuários que se registraram com um tipo de perfil de **Central.**
 {% endhint %}
 
-For such Hub enterprises, connecting with existing OFN producers or creating accounts for your producers is a necessary precursor to adding your product range to your shop.
+Para as Centrais, conectar-se com seu fornecedor ou criar uma conta para ele é um passo **necessário** para vender os produtos fornecidos por ele. 
 
 {% hint style="info" %}
+Todos os produtores fornecendo ou vendendo produtos na OFN
+
 All producers supplying / selling products on the Open Food Network must have an enterprise account on the platform. The products are entered in the producer's catalog and then "displayed" \(with potentially different prices and stocks\) on the shopfront of the producer and/or shopfronts of other distributors to whom the producer has given [permission](enterprise-to-enterprise-permissions-e2es.md). This is an important feature on the OFN, as it enables customers to trace the origin of products.
 {% endhint %}
 

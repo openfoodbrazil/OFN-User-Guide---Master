@@ -1,12 +1,12 @@
 ---
-description: Um simples passo a passo para começar na OFN como uma Loja.
+description: Um simples passo a passo para começar na OFB como uma Loja.
 ---
 
 # Loja
 
 Para começar, siga os seguintes passos:
 
-![Cinco passos para abrir sua Loja na OFN ](../.gitbook/assets/set-up-in-5-steps-draft.png)
+![Cinco passos para abrir sua Loja na OFB ](../.gitbook/assets/set-up-in-5-steps-draft.png)
 
 1. [Registre seu perfil](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/register-and-create-your-profile).  Selecione a opção 'Produtor' e em seguida 'Loja'. Complete as [configurações](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/enterprise-profile/enterprise-settings) com os dados da sua iniciativa.
 2. Liste seus [produtos](../recursos-basicos/products-1/products.md).
@@ -33,6 +33,6 @@ Todas as informações que você precisa para preparar e entregar os pedidos dos
 * Para sua loja online:
   * Você pode [restringir o acesso à sua loja](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/shopfront/private-shopfront) para que somente membros ou consumidores convidados possam acessá-la. Por exemplo, você pode oferecer descontos aos seus clientes mais fiéis ou criar um grupo de compras restrito aos seus colegas de trabalho.
   * Você pode oferecer preços diferentes ou mostrar produtos diferentes para grupos de consumidores específicos usando o [agrupamento de clientes \(por 'tags'\)](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/shopfront/customer-management-and-conditional-displays-prices/tags-and-tag-rules) e [preços e ofertas customizadas](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/shopfront/customer-management-and-conditional-displays-prices).
-  * Se você quiser somente mostrar seus produtos na OFN, sem vender nada, então você pode configurar uma [loja mostruário](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/shopfront/display-only-order-cycles). 
-  * Você pode[ incluir sua loja da OFN no seu próprio website](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/shopfront/embedded-shopfront). 
+  * Se você quiser somente mostrar seus produtos na OFB, sem vender nada, então você pode configurar uma [loja mostruário](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/shopfront/display-only-order-cycles). 
+  * Você pode[ incluir sua loja da OFB no seu próprio website](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/basic-features/shopfront/embedded-shopfront). 
 
