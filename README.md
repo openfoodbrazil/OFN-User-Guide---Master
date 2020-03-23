@@ -1,6 +1,6 @@
 # Manual de Usuário da OFB
 
-**Este guia foi feito para te ajudar a utilizar, da melhor maneira, os recursos da plataforma Open Food Network.** 
+**Este guia foi feito para te ajudar a utilizar, da melhor maneira, os recursos da plataforma Open Food Brasil.** 
 
 ## Visão Geral
 
