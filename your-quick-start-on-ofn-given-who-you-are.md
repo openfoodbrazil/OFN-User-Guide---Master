@@ -8,7 +8,7 @@ Para cada tipo de atividade, a plataforma funciona de maneiras diferentes.
 
 Nós classificamos as atividades em 3 categorias: [Perfil Simples](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/your-quick-start-on-ofn-given-who-you-are#profile/@drafts), [Lojas](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/your-quick-start-on-ofn-given-who-you-are#shop/@drafts) ou [Centrais](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M1agwj8wgQ-HECDEnOf/your-quick-start-on-ofn-given-who-you-are#hub/@drafts):
 
-![](.gitbook/assets/l-flowchart-1.png)
+![](.gitbook/assets/diagrama_cadastro_traducao-1.jpg)
 
 _A flexibilidade da OFB permite que você troque de Perfil Simples para Loja ou Central \(e vice versa\) de acordo com as necessidades da sua atividade._ 
 
