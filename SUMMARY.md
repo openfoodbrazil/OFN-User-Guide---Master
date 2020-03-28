@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Manual de Usuário da OFB](README.md)
-* [Local OFN organisations and contacts](local-ofn-organizations-and-contacts.md)
 * [Como a sua iniciativa pode usufruir da OFB?](your-quick-start-on-ofn-given-who-you-are.md)
 * [Guias de início rápido](guias-de-inicio-rapido/README.md)
   * [Central](guias-de-inicio-rapido/centra-multi-produtores-guia-de-inicio-rapido.md)

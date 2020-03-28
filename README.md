@@ -48,5 +48,5 @@ Looking for information on something specific? Use the search bar in the top lef
 
 ## Entre em contato
 
-Any difficulty with that user guide? Any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local OFN entity](local-ofn-organizations-and-contacts.md) for any feedback!
+Any difficulty with that user guide? Any information missing? Or maybe you want to share some features you would like to see in the future? Get in touch with [your local OFN entity]() for any feedback!
 
