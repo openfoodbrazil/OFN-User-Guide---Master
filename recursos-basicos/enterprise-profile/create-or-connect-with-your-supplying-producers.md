@@ -7,7 +7,7 @@ Esta página é relevante somente para usuários que se registraram com um tipo 
 Para as Centrais, conectar-se com seu fornecedor ou criar uma conta para ele é um passo **necessário** para vender os produtos fornecidos por ele. 
 
 {% hint style="info" %}
-Todos os produtores fornecendo ou vendendo produtos na OFN
+Todos os produtores fornecendo ou vendendo produtos na OFB devem ter um perfil registrado na plataforma. Os produtos são adicionados à lista e disponibilizados \(possívelmente com preços diferentes e estoques diferentes\) na loja do próprio produtor ou em lojas de outros distribuidores \(Centrais\) para as quais o produtor deu permissão. Este é um recurso importante
 
 All producers supplying / selling products on the Open Food Network must have an enterprise account on the platform. The products are entered in the producer's catalog and then "displayed" \(with potentially different prices and stocks\) on the shopfront of the producer and/or shopfronts of other distributors to whom the producer has given [permission](enterprise-to-enterprise-permissions-e2es.md). This is an important feature on the OFN, as it enables customers to trace the origin of products.
 {% endhint %}
