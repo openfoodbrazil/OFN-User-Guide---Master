@@ -8,8 +8,6 @@ A Open Food Brasil permite que as pessoas construam maneiras melhores e mais jus
 
 A Open Food Brasil faz parte da Open Food Network, um projeto global que dá suporte a iniciativas locais. Nosso software foi construído com um código aberto \('open source'\) por pessoas de todo o mundo que continuam a desenvolvê-lo. 
 
-Este curto vídeo é uma pequena introdução ao funcionamento da Open Food Brasil, e o que a plataforma pode fazer pela sua iniciativa.
-
 ## Como usar este guia?
 
 ### &gt; Guias rápidos de configuração, formatados para todos os perfis de usuários.
@@ -34,7 +32,7 @@ Aqui você vai achar a maior parte das respostas para as suas perguntas.
 
 ### _&gt;_ Guidelines on complementary software you might like to use in combination with the Open Food Network
 
-The Open Food Network does a lot of things, but no one tool can fit all needs. We have listed [some needs for which you might need complementary software, and how you can set them up](complementary-tools-software/) to work hand in hand with your local Open Food Network platform.
+O Open Food Brasil tem varias funcionalidades, mas nenhuma ferramenta vai fazer tudo que você precisa. Nos temos uma lista de [de algumas necessidades que você pode precisar de ferramentas complementares, e como configura-las](complementary-tools-software/) para trabalhar em conjunto com a Open Food Brasil.
 
 ### &gt; Solução de Problemas
 
