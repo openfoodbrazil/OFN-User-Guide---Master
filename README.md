@@ -30,7 +30,7 @@ Este é um guia detalhado, para usuários que queiram configurar sua conta de ma
 Aqui você vai achar a maior parte das respostas para as suas perguntas.
 {% endhint %}
 
-### _&gt;_ Guidelines on complementary software you might like to use in combination with the Open Food Network
+### _&gt;_ Diretrizes sobre software complementar que você pode gostar de usar em combinação com a Open Food Brasil
 
 O Open Food Brasil tem varias funcionalidades, mas nenhuma ferramenta vai fazer tudo que você precisa. Nos temos uma lista de [de algumas necessidades que você pode precisar de ferramentas complementares, e como configura-las](complementary-tools-software/) para trabalhar em conjunto com a Open Food Brasil.
 
