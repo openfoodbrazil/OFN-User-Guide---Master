@@ -1,76 +1,76 @@
-# Enterprise Permissions
+# Permissões de Iniciativa
 
-## Enterprise Permissions
+Na OFB, as Permissões de Iniciativa são regras que governam as relações de comércio entre os perfis de fornecedores e de distribuidores. Estas regras devem ser configuradas antes que um produtor possa se tornar fornecedor de outras iniciativas \(Centrais\), ou vice versa. Uma permissão é concedida por uma inciativa a outra iniciativa. Ela pode dar direito de acesso / modificação de produtos e perfil. A seguir serão detalhados os diferentes tipos de permissão e como concedê-los.
 
-Within the OFN Enterprise Permissions are rules which govern the trading relationships between businesses: suppliers and distributors. These rules must be set up before one company \(Producer Profile or Producer Shop\) can become a supplier of another \(Hub\), or vice versa. A permission \(or 'right'\) is granted by one company to another regarding access / modification of products and profile. This page details the different permissions and how to allocate them.
-
-To access your enterprise permissions:
+Para acessar as permissões da sua iniciativa:
 
 ![](../../.gitbook/assets/permissions.gif)
 
-Lastly, we explore this topic from the point of view of:
+Ao final, vamos explorar este tópico do ponto de vista de:
 
-* [a Hub](enterprise-to-enterprise-permissions-e2es.md#hub-perspective) \(the distributor\)
-* [a producer profile or shop](enterprise-to-enterprise-permissions-e2es.md#producers-perspective) \(the supplier\)
+* [uma Central](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M3n1ACwrn6TUhyGndiU/recursos-basicos/enterprise-profile/enterprise-to-enterprise-permissions-e2es#hub-perspective/@drafts) \(o distribuidor\)
+* [um Perfil Simples ou Loja](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M3n1ACwrn6TUhyGndiU/recursos-basicos/enterprise-profile/enterprise-to-enterprise-permissions-e2es#producers-perspective/@drafts) \(o fornecedor\)
 
-## The Four Permissions
+## Os 4 tipos de permissão
 
-There are 4 different types of Enterprise permissions. They can combine in different ways to give companies more or less rights according to their profiles.
+Há 4 tipos de permissão diferentes. Eles podem ser combinados entre si para que um perfil conceda a determinadas iniciativas mais ou menos direitos de acesso.
 
 ![](../../.gitbook/assets/e2emenu2.jpg)
 
-**Permission to add to order cycle**: the supplier \(producer\) allows the distributor \(an OFN Hub\) to add products to the latter's order cycles. Thus, products from the supplier can appear on the hub's shopfront.
+**Permissão para adicionar produtos a um ciclo de pedidos:** o fornecedor \(produtor\) concede ao distribuidor \(uma Central\) o direito de adicionar produtos aos ciclos de pedidos dele \(distribuidor\). Desta forma, os produtos do fornecedor podem ser vendidos na loja virtual do distribuidor. 
 
-**Permission to manage products**: the supplier authorises another OFN registered enterprise \(typically a hub\) to create, delete and modify products directly in its supplier catalog.
+**Permissão para gerenciar produtos:** o fornecedor \(produtor\) concede a outra iniciativa \(normalmente uma Central\) o direito de criar, deletar e editar produtos diretamente no catálogo do fornecedor.
 
 {% hint style="danger" %}
-This can potentially impact all hubs which the producer supplies with goods through OFN.
+Isto pode impactar todas as Centrais para as quais o produtor em questão fornece mercadorias. 
 {% endhint %}
 
-> _For example, if Farmer Jo supplies potatoes to Hubs A and B but grants Hub A permission to manage its products then if Hub A changes the price of the potatoes then this price change \(under standard settings\) will be reflected on the shop fronts of both hubs A and B._
+> _Por exemplo, se o Produtor Celso fornece batatas para a Central A e para a Central B, e permite que a Central A gerencie seus produtos, então se a Central A mudar o preço das batatas, esta mudança vai refletir no preço das lojas virtuais tanto da Central A quanto da Central B._
 
-**Permission to edit profile:** one company allows another to modify details in their [Enterprise Profile](./) \(contact details, address, description, ...\).
+**Permissão para editar perfil:** uma iniciativa permite a outra que modifique suas informações no seu [Perfil de Iniciativa ](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M3n1ACwrn6TUhyGndiU/recursos-basicos/enterprise-profile/@drafts)\(informações para contato, endereço, descrição ...\).
 
-**Permission to add products to inventory**: the supplier \(producer\) authorises the distributor \(hub\) to add its products to the shop catalog \(or '[Inventory](../products-1/inventory-tool.md)'\) of the hub.
+**Permissão para adicionar produtos ao inventário:** o fornecedor \(produtor\) permite que o distribuidor \(Central\) adicione seus produtos ao catálogo da loja virtual \(ou[ Inventário](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M3n1ACwrn6TUhyGndiU/recursos-basicos/products-1/inventory-tool/@drafts)\) da Central**.** 
 
 {% hint style="info" %}
-If a producer supplies more than one hub with goods, then to allow each of these hubs to manage pricing and stock levels of their products independently we recommend adding this permission between the two enterprises and for the Hubs to change their [Inventory settings](enterprise-settings.md#inventory-settings).
+Se um você fornece mercadorias a mais de uma Central, então é recomendado que você conceda a permissão para adicionar produtos ao inventário à todas elas, assim cada uma pode gerenciar o preço e o estoque independentemente.
 {% endhint %}
 
-## Granting and Managing Permissions
+## Conceder e Gerenciar Permissões 
 
-To modify, add or delete permissions, go to the admin dashboard and then to 'Enterprises' on the blue menu and 'Permissions' on the green sub-menu.
+Para modificar, adicionar ou deletar permissões, acesse o Painel de Controle, em seguida clique em 'Iniciativas' no menu azul e então em 'Permissões' no sub-menu verde. 
 
 ![](../../.gitbook/assets/e2emenu.jpg)
 
-To give permission:
+Para conceder permissões:
 
-* Select your enterprise from the drop down menu in the first column \(you are a producer who supplies others\)
-* Select the name of the enterprise \(hub\) you wish to supply from the the second column.
-* Tick the permissions you wish to grant the distributor of your goods \(hub\) or to grant multiple permissions select 'everything'.
-* Click on 'Create'.
+* Selecione a sua iniciativa no menu suspenso da primeira coluna \(você é um produtor que fornece a outras lojas\). 
+* Na segunda coluna, selecione o nome da Iniciativa \(Central\) para a qual você quer fornecer seus produtos. 
+* Assinale quais tipos de permissão você quer conceder a esse distribuidor. Para conceder todas as permissões, selecione 'Tudo'.
+* Clique em 'Criar'. 
 
-  Note that you can delete or change these permissions at any time.
+Você pode deletar ou modificar essas permissões a qualquer momento.
 
 {% hint style="warning" %}
-Only users listed as [Managers](enterprise-settings.md#users) of an enterprise can change its permissions.
+Apenas usuários definidos como [Gestores](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M3n1ACwrn6TUhyGndiU/recursos-basicos/enterprise-profile/enterprise-settings#users/@drafts) de uma iniciativa podem mudar as permissões. 
 {% endhint %}
 
-If you need another enterprise to give you permissions, you need to contact them by email or phone. There is no online feature to do this.
+Se você necessite que alguma outra iniciativa conceda uma permissão para você, então você precisa entrar em contato com o gestor dessa iniciativa, por email ou telefone.Não é possível fazer isso através da plataforma.
 
-## Automatically Generated Permissions
+## Permissões Geradas Automaticamente 
 
-When a user is the main manager of several enterprises on the platform, [the four permissions](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions) are created automatically between each enterprise. This is not the case when enterprises are managed by different users.
+Quando um usuário é o principal gestor de muitas iniciativas na plataforma, [as quatro permissões](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M3n1ACwrn6TUhyGndiU/recursos-basicos/enterprise-profile/enterprise-to-enterprise-permissions-e2es#the-four-permissions/@drafts) são criadas automaticamente entre cada iniciativa. Este não é o caso quando as iniciativas são gerenciadas por diferentes usuários.
 
-## Hub perspective
+## Do ponto de vista de uma Central 
 
-The following common scenarios demonstrate enterprise-enterprise permissions you may need to set up for your hub.
+As seguintes situações mostram quais permissões você talvez precise configurar para a sua iniciativa: 
 
-> **I have** [**created Producer Profiles for each of my suppliers**](create-or-connect-with-your-supplying-producers.md#supplier-does-not-have-an-ofn-profile)**. Which permissions do I need to set up before I can stock their products on my Hub shopfront?**
+> **Eu** [**criei um Perfil de Produtor para cada um dos meus fornecedores**](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M3n1ACwrn6TUhyGndiU/recursos-basicos/enterprise-profile/create-or-connect-with-your-supplying-producers#supplier-does-not-have-an-ofn-profile/@drafts)**. Quais tipos de permissão eu preciso configurar antes de disponibilizar os seus produtos na minha loja virtual?**
 
-The system is configured so that hubs creating producer profiles will have the _correct permissions installed as default_, so that they can start adding products and trading with these producer profiles right away.
+O sistema está configurado de forma que as Centrais que criarem perfis de produtores já terão as permissões necessárias configuradas por padrão, de modo que elas poderão adicionar produtos e vendê-los imediatamente. 
 
-> **My** [**supplier already has an enterprise registered with OFN**](create-or-connect-with-your-supplying-producers.md#supplyingproducer)**. I would like to add their products to my hub shopfront.**
+> **Meu fornecedor já tem uma iniciativa registrada na OFB. EU gostaria de adicionar os seus produtos na minha loja virtual.**
+
+Você deverá entrar em contato pessoalmente com seu fornecedor. As informaç
 
 You must contact your supplier in person. Their contact details \(phone number, address and email address\) will be located in their OFN profile.
 

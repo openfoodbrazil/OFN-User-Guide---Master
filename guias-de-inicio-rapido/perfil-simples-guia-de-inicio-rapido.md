@@ -4,7 +4,7 @@ description: Um simples passo a passo para você criar seu Perfil Simples na OFB
 
 # Perfil Simples
 
-It's easy to get started on OFB, just follow the steps below:
+Para começar, siga os seguintes passos:
 
 ![Quatro passos para come&#xE7;ar sua jornada na OFB](../.gitbook/assets/quick-set-up-in-5-steps-profile.png)
 

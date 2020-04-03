@@ -1,4 +1,4 @@
-# Perfil da Iniciativa
+# Perfil de Iniciativa
 
 Uma vez[ criada uma conta para a sua Iniciativa](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2_FAGXWCqdgDD2kd2i/recursos-basicos/register-and-create-your-profile#create-your-first-enterprise-account/@drafts), você precisa fazer o login e acessar o [Painel de Controle](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2_FAGXWCqdgDD2kd2i/recursos-basicos/dashboard/@drafts) para continuar configurando o seu perfil.
 

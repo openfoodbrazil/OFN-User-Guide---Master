@@ -1,18 +1,18 @@
-# Making a producer profile searchable by product category
+# Como incluir um perfil de produtor na busca por categorias de produto
 
-When customers come to the Open Food Network they are able to search for producers by name or location. They are also able to filter the producer profiles according to what kinds of products the producers stock \(see below\).
+Navegando pela OFB, os clientes podem buscar por produtores por 'nome' ou 'localização'. Eles também podem filtrar os perfis de produtores de acordo com os tipos de produtos fabricados e disponibilizados na plataforma \(veja na imagem abaixo\).
 
 ![](../../.gitbook/assets/filter-by-product.png)
 
-Producers with online shops on the OFN have products in the system, which get picked up by the search filter tool. However, producers who don’t have an OFN shop \(just a profile\) won’t be searchable in this way, unless they add some fake products into the system. By adding a dummy product for each product category that you want to be searchable under, you’ll show up when customers search for your products.
+Produtores com lojas virtuais na OFB podem ter seus produtos visualizados na ferramenta da busca por filtros. Por outro lado, produtores com um Perfil Simples, ou seja, sem uma loja virtual, não terão seus produtos disponibilizados na busca por filtro - a menos que adicionem alguns produtos 'fantasma' no sistema. Após adicionar um produto fantasma para cada categoria de produto desejada, o produtor aparecerá quando o cliente fizer uma busca por essas categorias.
 
-Here’s how to do this…
+Veja como fazer isso:
 
-Click **Products** in the horizontal blue menu, and then click **+ New Product** to add your dummy products.
+Clique em **Produtos** no menu horizontal azul, e então clique em **+ Novo Produto** para adicionar seus produtos fantasmas.
 
 ![](../../.gitbook/assets/access-new-product.png)
 
-Because you don’t have an OFN shopfront, this product won’t be visible anywhere. Therefore you can call it whatever you like, and set the price and units to anything. The important thing is that you select the correct **Product Category** that you wish to be found under. Below is an example of a dummy meat product. This producer’s profile will now show if a customer searches for producers of meat.
+Como o Perfil Simples não tem uma loja virtual, esse produto não será visível em lugar algum. Portanto, você pode dar o nome que quiser. Os valores de preço e quantidade também não importam. O importante é que você selecione a Categoria de Produto pela qual você quer ser encontrado na busca. Segue abaixo um exemplo de um produto fantasma na categoria 'carnes'. O perfil deste produtor agora aparecerá quando um cliente fizer uma busca por produtores de carne. 
 
 ![](../../.gitbook/assets/dummy-meat-product.png)
 
