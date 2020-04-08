@@ -70,45 +70,43 @@ O sistema está configurado de forma que as Centrais que criarem perfis de produ
 
 > **Meu fornecedor já tem uma iniciativa registrada na OFB. EU gostaria de adicionar os seus produtos na minha loja virtual.**
 
-Você deverá entrar em contato pessoalmente com seu fornecedor. As informaç
+Você deverá entrar em contato pessoalmente com seu fornecedor. As informações para contato \(telefone, email, etc.\) estão localizadas na página do perfil dele.
 
-You must contact your supplier in person. Their contact details \(phone number, address and email address\) will be located in their OFN profile.
+Se o seu objetivo for apenas **vender os  produtos** dele, peça a permissão para **adicionar ao ciclo de pedidos** e permissão para **adicionar ao inventário.** 
 
-If you only intend to _**stock their products**_ and don't wish to help them manage the rest of their OFN profile then ask the producer to grant permission _**to add to order cycle**_ and permission _**to add to inventory.**_
+Se o fornecedor quiser que você, como uma Central, o auxilie na gestão do perfil dele, ele pode te conceder todas as quatro permissões. Caso isso ocorra, então você será capaz de editar detalhes do perfil e gerenciar os produtos do fornecedor. 
 
-If the supplier wishes for you, as a Hub manager, to help them organise their OFN enterprise then they may grant you all four permissions. Should this occur then you will be able to edit their profile and manage their products.
+**Minha Central funciona como um grupo de compras. Quais permissões dos produtores a minha iniciativa precisa?**
 
-> **My Hub distributes through buying groups. Which permissions will the buying group need with my hub and my producers?**
+Neste exemplo, uma Central gerencia \(coordena\) um ciclo de pedidos para uma outra iniciativa, através da qual os consumidores fazem suas compras.
 
 {% hint style="warning" %}
-This is an example of where the hub managing \(co-ordinating\) an order cycle differs from the enterprise from which customers collect their purchases.
+Neste exemplo, uma Central gerencia \(coordena\) um ciclo de pedidos para uma outra iniciativa, através da qual os consumidores fazem suas compras.
 
-_If Hub A manages \(co-ordinates\) an order cycle for a buying group \(Hub B\) then the order cycle will be displayed on Hub B's OFN shopfront._
+_Se a Central A gerencia um ciclo de pedidos para um grupo de compras \(Central B\), o ciclo de pedidos será visualizado na loja virtual da Central B._
 {% endhint %}
 
-The buying group \(Hub B above\) will need to grant the order cycle co-ordinator \(Hub A above\) permission to add to order cycle \(and ideally permission to add to inventory\).
+O Grupo de Compras \(Central B\) vai precisar conceder ao coordernador do ciclo de pedidos \(Central A\) a permissão para adicionar produtos a um ciclo de pedidos \(e preferívelmente permissão para adicionar produtos ao inventário. 
 
-Producers who supply Hub A with products that are to also be sold by the buying group \(Hub B\) must grant both Hubs A and B permission to add to order cycle \(and ideally permission to add to inventory\).
+Produtores que fornecem a Central A com produtos que também são vendidos pelo Grupo de Compras \(Central B\) devem conceder permissão para as ambas centrais \(A e B\) para adicionar produtos ao ciclo de pedidos \(e inventário, preferivelmente\). 
 
-## Producer's perspective
+## Do ponto de vista do Produtor
 
-When a producer wants to start selling their products through other enterprises \(hubs or buying groups\) the must establish the appropriate enterprise-to-enterprise permissions. There are different levels of permission that a producer can grant, depending on how much power they want to give the hub to manage their products and profile \(see [top of page](enterprise-to-enterprise-permissions-e2es.md#the-four-permissions)\).
+Quando um produtor quiser começar a vender seus produtos através de outras iniciativas \(centrais ou grupos de compras\), ele deve estabelecer as permissões apropriadas. Existem diferentes níveis de permissões que um produtore pode conceder, dependendo de quanto poder ele queira dar à uma determinada Central para gerenciar seus produtos e pefil \(veja [acima](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4LUypJW72tjarDjRcK/recursos-basicos/enterprise-profile/enterprise-to-enterprise-permissions-e2es#the-four-permissions)\).
 
-These examples explore some common scenarios.
+Alguns exemplos comuns:
 
-> **I am a producer and would like a local OFN hub to stock and sell my products.**
+> **Sou um produtor e gostaria que uma Central local disponibilizasse e vendesse os meus produtos.**
 
-**Essential:** For the hub to add your products to their shopfront, you’ll need to grant them _'permission to add to order cycle'_.
+**Essencial:** para que a central adicione seus produtos à loja virtual dela, você precisará conceder-lhe uma 'permissão para adicionar produtos a um ciclo de pedidos'.
 
-**Optional:** You might also want to give the hub permission to manage your products, to edit your profile or to add to Inventory.
+**Opcional:** Talvez você também queria conceder à Central permissão para gerenciar seus produtos, editar seu perfil ou adicionar produtos ao inventário dela.
 
-> **A hub that I supply distributes through buying groups.**
+> **Forneço produtos para uma Central que vende através de grupos de compras.**
 
-In order for your products to be distributed by the buying groups you will have to add a minimum of permission 'to add to order cycle' for the buying group enterprise _as well as_ the hub you supply directly.
+Para que seus produtos sejam distribuídos pelos grupos de compra, você precisará conceder ao menos a 'permissão para adicionar produtos a um ciclo de pedidos' para a iniciativa do grupo de compras e também para a Central para a qual você fornece diretamente. 
 
-> **I am a Producer Shop who supplies a local Hub as well as running my own shopfront. The hub would like to manage the stock levels and prices of my products. I would like to** _**also**_ **manage stock levels and prices of my products.**
+**Sou uma Loja de Produtor que, além vender produtos na minha própria loja virtual, também fornece produtos para uma Central local. A Central gostaria de gerenciar os níveis de estoque e preços dos meus produtos. Eu** _**também**_ **quero gerenciar os níveis de estoque e preços dos meus produtos.**
 
-This scenario can be solved by granting the hub permission to add to Inventory as well as permission to add to order cycle.
-
-This allows the hub to stock your products in their shop, but to set their own prices and inventory levels. When you stock your own shop with your products, they will continue to reflect the prices and stock levels that you have set.
+Esta situação pode ser resolvida concedendo à Central em questão permissão para adicionar produtos ao inventário, além da permissão para adicionar ao ciclo de pedidos. Isso permite que a Central disponibilize seus produtos na loja virtual dela, mas com os próprios preços e níveis de estoque. Quando você adicionar produtos à sua própria loja, eles continuaram refletindo os preços e níveis de estoque que você configurou. 
 
