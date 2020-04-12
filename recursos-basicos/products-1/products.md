@@ -1,100 +1,98 @@
-# Add produtos
+# Adicionar produtos
 
-You can either add products to your catalog one by one \(detailed below\) or by [bulk import](product-and-inventory-import.md), if you have all the relevant details in a .csv file.
+Você pode adicionar produtos ao seu catálogo um a um \(como detalhado abaixo\) ou por [importação em massa](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/products-1/product-and-inventory-import/@drafts), se você tiver todas as informações organizadas em um arquivo .csv.
 
-## Adding products
+## Adicionando produtos
 
-Once logged into the Admin Dashboard, select on **Products** on the horizontal blue menu, and then click **+ New Product**.
+Uma vez feito o login no Painel de Controle do Administrador, acesse a página "**Produtos**" no menu azul horizontal, e então clique em **+ Novo Produto.**
 
 ![](../../.gitbook/assets/add-new-product.png)
 
-This will take you to the New Product page.
+Você será levado para a página 'Novo Produto'.
 
 ![](../../.gitbook/assets/new-product2.png)
 
-**Supplier**
+**Fornecedor**
 
-Select the enterprise who produces and supplies the product.
-
-{% hint style="info" %}
-If you are a producer, this will be you. If you're a hub, remember you’ll only be able to add products to producer profiles which you have created, or if you have been granted permission to manage the products of a producer profile. See [here](../enterprise-profile/create-or-connect-with-your-supplying-producers.md) for more info.
-{% endhint %}
-
-**Product name:** This is the title of the product when displayed on the shop front.
-
-**Units:** Choose the unit the product is sold in? \(g, kg, L… or item \(bunch, bag, packet\)\)
-
-If you choose g and then enter 1000, the product will be displayed as 1kg for the buyer. Keep in mind that some units of measurement will impact on the operation of certain [enterprise fees](../shopfront/enterprise-fees.md).
-
-For example, a [fixed fee by weight](../shopfront/enterprise-fees.md#fee-calculators) can only be applied to products with units of **kg**. In this case, you can enter non-integer unit numbers, such as 0.2 kg, and the product will be displayed as 200 g but will be recorded in kg on the reports and when prices are calculated.
-
-**Value:** Enter the value of units that this product is sold in \(for example if it is sold as 100 g then enter '100' here and choose 'g' for 'units'; or if it is sold as bunches of flowers, enter '1' here and 'units= items'.
-
-**Display As:** This field automatically shows you how the units and value fields will display, once you have filled the units and value fields. \(i.e. units = kg, value = 2, Display as = 2kg\)
+Selecione a iniciative que produz e fornece o produto que você vai inserir no catálogo.
 
 {% hint style="info" %}
-Note: If you have selected ‘**items**’ as your unit, the **display as** field will change to ‘**item name’**. Fill this in with the type of item it is. \(i.e. jar, bottle, or bunch\)
+Se você for um produtor, então este pode ser você. Se você for uma Central, lembre-se que você só será capaz de adicionar produtos de produtores cujo perfil você mesmo criou, ou se você tiver recebido permissão para administrar os produtos do perfil do produtor. Para mais informações, veja [aqui](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/enterprise-profile/create-or-connect-with-your-supplying-producers/@drafts).
 {% endhint %}
 
-**Product category:** Select the most appropriate category for this product. Assigning a product category makes it easier for customers to locate the items they wish to buy; shoppers can filter your product list by category on your shop front.
 
-**Price:** Enter the price for the value noted above. Note, this is the base price charged by the producer and the amount they will receive for each purchase. Mark-ups and fees \(for distribution admin etc\) are added in [Enterprise Fees](../shopfront/enterprise-fees.md), [Shipping Fees](../shopfront/shipping-methods.md#fee-calculators) and [Payment Methods](../shopfront/payment-methods.md#fee-calculators).
+
+**Nome do Produto:** este é o nome que vai identificar o produto na loja virtual. 
+
+**Unidades:** Escolha em que tipo de unidade o produto é vendido. Exemplos: **g, kg, L** ou **molho, garrafa, saco, etc...**
+
+Se você selecionar 'g' e inserir 1000, o produto será visualizado como 1 kg pelo consumidor. Leve em consideração que algumas unidades de medida vão impactar na operação de certas [taxas de iniciativa.](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/shopfront/enterprise-fees/@drafts)
+
+Por exemplo, uma [taxa fixa por peso](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/shopfront/enterprise-fees#fee-calculators/@drafts) só pode ser aplicada a produtos com unidades em quilos \(kg\). Nesse caso, você pode colocar números decimais, como 0.2 kg, e o produto será mostrado na loja como 200 g mas será registrado nos relatórios em kg quando os preços forem calculados. 
+
+**Quantidade:** Insira a quantidade em que esse produto é vendido. Por exemplo, se for vendido por '100 g' então digite 100 aqui e escolha 'g' nas unidades de medida; ou se for vendido em molhos, digite 1 aqui e nas unidades de medida escolha 'itens'.
+
+**Mostrar como:** Este campo te mostra como será visualizada a quantidade conjuntamente com a unidade de medida escolhida, após esse campos terem sido preenchidos \(exemplo: unidade de medida = kg, quantidade = 2, mostrar como = 2 kg\). 
 
 {% hint style="info" %}
-If your enterprise is registered for tax or you select that this product carries tax, then the price you put here is **inclusive of Tax**. If you select that this product is tax free, the price you enter will be the tax free price.
+Atenção: Se você selecionar **'itens'** como sua unidade de medida; o campo **mostrar como** mudará para o    **nome do item**. Adicione o nome correspondente \(exemplo: molho, garrafa, saco, etc..\) 
 {% endhint %}
 
-**In Stock:** State how much/many of this product you have available and ready for sale.
+**Categoria do produto:** Selecione a categoria mais apropriada para este produto. Indicar uma categoria de produto facilita para o consumidor encontrar os produtos que ele quer comprar. Os consumidores podem filtrar sua lista de produtos por categoria na sua loja virtual. 
 
-Use this field if you want to track your stock levels. As customers place orders, the stock level will reduce, and when the in stock amount reaches zero, the product will no longer be visible in your shop. If you don’t want to track inventory in this way, click 'on demand'.
+**Preço:** Insira o valor para a quantidade determinada acima. Atenção, este é o preço base cobrado pelo produtor e a quantidade que ele vai receber por cada compra. Taxas \(de serviço, transporte, etc.\) e margem de lucro são adicionadas nas [Taxas da Iniciativa](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/shopfront/enterprise-fees/@drafts), [Taxas de Entrega](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/shopfront/shipping-methods#fee-calculators/@drafts) e [Métodos de Pagamento](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/shopfront/payment-methods#fee-calculators/@drafts).
 
-**Unlimited:** If you select this box, it will indicate that this product is always available. This stops the software from tracking inventory levels for products, and instead it will always show that the product is in stock.
+{% hint style="info" %}
+Se você selecionar que o produto carrega um imposto, então o preço que você colocar aqui tem **impostos inclusos.** Se você selecionar que este produto não inclui impostos, então o preço definido será o preço livre de impostos.
+{% endhint %}
 
-**Image:** Upload a photo of this product.
+**Disponível:** Informe a quantidade do produto que você tem disponível em estoque e pronto para a venda. Use este campo se você quiser rastrear seu nível de estoque. A medida que os consumidores fizerem os pedidos, o nível de estoque vai reduzir automaticamente, e quando chegar a zero, o produto não será mais visível na sua loja virtual. Se você não quiser que isso aconteça, clique em 'sob encomenda'.
+
+**Sob demanda:** Selecionando esta opção, você indica que o produto está sempre disponível no estoque. Isto faz com que o software pare de rastrear o nível do estoque no catálogo, e o mostre sempre como disponível na loja. 
+
+**Imagem:** Faça o upload de uma foto para este produto.
 
 {% hint style="success" %}
-We recommend using good quality photos, in a square \(1:1\) format, and preferably a real photo of your products rather than the standard image of the web. This makes the product more attractive to the consumer. Always take your photographs in good light.
+Recomendamos o  uso de fotos de boa qualidade, no formato quadrado \(1:1\), e preferívelmente uma boa foto real dos produtos ao invés de uma foto genérica retirada da internet. Se você usar uma foto da internet, certifique-se de que seja de licensa livre.
 
 If you use an image of the web, check that it is free of rights.
 {% endhint %}
 
-**Tax category:** Select the applicable tax category from the drop-down list. Tax \(VAT in the UK\) depends on the nature of the product and the country in which you are retailing in.
+**Categoria de Imposto:** esta opção não se aplica à Open Food Brasil, já que os impostos são declarados no informe de imposto de renda, e não na fonte, como em outros países.
 
-{% hint style="danger" %}
-Tax will only be collected when enterprises have selected 'charges VAT = yes' under their enterprise settings -&gt; Business Details.
-{% endhint %}
-
-**Product description:** Tell your customers a little bit about this product. You might like to include a story about the specific tomato variety, include hyperlinks to any certification it may have etc.
+**Descrição do Produto:** Conte a seus consumidores um pouco mais sobre este produto. Talvez você queria contar alguma curiosidade sobre como ele foi produzido. Inclua links para outras páginas sobre qualquer tipo de certificação que o produto possa ter. 
 
 {% hint style="info" %}
-Don't forget to click on the "create" or "create and add new" button at the bottom of the page once all mandatory fields have been entered \(those indicated by a red asterisk\).
+Não se esqueça de clicar no botão 'criar' ou 'criar e adicionar novo' no pé da página, quando tiver preechido todos os campos obrigatórios \(indicados pelo asterisco em vermelho\). 
 {% endhint %}
 
-A short demonstration of the steps outlined above:
+Um pequena demonstração dos passos detalhados acima:
 
 ![](../../.gitbook/assets/productsadd.gif)
 
-When you have finished creating a product, you are redirected to the "products" page where you will find all your products:
+Quando você tiver terminado de criar um produto, você será redirecionado à página 'produtos', onde estaram listados todos os produtos que você criou.
+
+
 
 ![](../../.gitbook/assets/productspage.jpg)
 
-## Listing Similar / variations of a Product
+## Criando produtos parecidos ou 'variantes' do produto. 
 
-If you are listing a product which comes in a number of different options \(say different sizes or flavours, each of which may or may not have a different price\), it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. Creating product variants is discussed fully on the [next page](product-variants.md).
+Se você está criando um produto que vem em diferentes opções \(por exemplo, diferentes tamanhos ou sabores, que podem ter um preço diferente ou não\), o melhor a se fazer é criar uma variante deste produto, ao invés de criar múltiplos produtos separados. Este recurso será melhor detalhada na [página seguinte](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/products-1/product-variants).
 
 {% hint style="success" %}
-Variants are useful if, for example, you sell lemons singularly as well as in 'packs' of 5. Rather than have two product listings the two options can be available for the same product.
+Variantes são úteis se, por exemplo, você vende limões a granel e em pacotes de 5 limões. Ao invés de listar as duas opções como produtos separados, as duas opções pode estar disponíveis para o mesmo produto.
 {% endhint %}
 
-If you would like to create a SIMILAR product then you can duplicate products by selecting the double page icon to the right of an item \(red box\). By subsequently selecting the pencil and paper icon \(green box\) the copied product can be edited and the details amended for the second item.
+Se voce quiser criar um produto parecido, então você pode duplicar produtos clicando no ícone 'duplicar' à direita do item em questão \(caixa vermelha\). Em seguida, selecionando o ícone 'editar' \(caixa verde\) o produto copiado pode ser editado para inserir alterações.
 
 ![](../../.gitbook/assets/productspagecopy.jpg)
 
-## Refine product attributes
+## Refinando atributos de produtos. 
 
-Using OFN you can add **properties or labels** to your products. This allows customers to find your items when searching for specific criteria \(eg. certified Organic\) and highlights specific qualities your products may have. Find out more [here](product-properties.md).
+Na OFB você pode adicionar **propriedades** ou **selos** para seus produtos. Isto permite aos consumidores que encontrem produtos buscando por critérios específicos \(ex.: agroecológicos, orgânicos certificados\)  e também destaca as qualidades específicas que seu cultivo ou fabricação pode ter. Saiba mais [aqui.](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/products-1/product-properties)
 
-For tips on how to manage sales of **"irregular" products** such as meat or large vegetables sold in units but costed by weight, please read [here](pricing-irregular-items-kg.md).
+Para dicas de como administrar vendas de **produtos 'irregulares'** como carne ou grandes legumes vendidos por unidade mas precificados de acordo com o peso, por favor leia [aqui. ](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/products-1/pricing-irregular-items-kg)
 
-Our **Group Buy** tool enables you to manage and organise sales of products in bulk lots. Find out more [here](group-buy-for-bulk-ordering.md).
+Nossa ferramenta para **Grupo de Compras** permite que você administre e organize vendos de produtos em atacado. Saiba mais [aqui.](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4aA1P9PN2d138rOjAt/recursos-basicos/products-1/group-buy-for-bulk-ordering)
 

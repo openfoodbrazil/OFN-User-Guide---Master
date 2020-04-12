@@ -16,7 +16,7 @@ Como o Perfil Simples não tem uma loja virtual, esse produto não será visíve
 
 ![](../../.gitbook/assets/dummy-meat-product.png)
 
-Their summary profile will also indicate that they sell meat products \(below\).
+O perfil resumido também vai indicar que eles vendem produtos categorizados como 'carne'.
 
 ![](../../.gitbook/assets/meat.png)
 

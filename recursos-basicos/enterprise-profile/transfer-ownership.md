@@ -1,36 +1,34 @@
-# Change Profile Managers / Owners
+# Como mudar os administradores ou donos de um perfil
 
-It is common for a producer's profile to be created by a hub, and then the hub will add the producer as a manager of that profile, or even transfer the "ownership" \(primary manager\) of the profile to the producer, when the producer accepts to manage their profile and product catalog themself.
+É comum que um perfil de produtor seja criado por uma Central, e essa Central inclua o produtor como administrador desse perfil, ou até transfira a 'propriedade' \(administração primária\) do perfil para o produtor, quando este aceita administrar ele mesmo seu perfil e seus produtos. 
 
-To add a new manager and eventually transfer ownership, here is the procedure to follow:
+Para adicionar um novo administrador e eventualmente transferir a propriedade do perfil, faça o seguinte:
 
-* On the admin dashboard, go to the Managers menu of your Enterprise settings \(Enterprise &gt; Settings &gt; Managers\):
+* No Painel de Controle, acesse o menu 'usuários' nas configurações da Iniciativa \(Iniciativas &gt; Configurações &gt; Usuários\):
 
 ![](../../.gitbook/assets/changeowner.jpg)
 
-* Under "Managers", search for the email of the producer you would like to add as a manager.
+* Em 'Usuários', procure pelo email do produtor que você gostaria de adicionar como administrador. 
 
-**Case 1: The Producer in question already has a user account with OFN:**  
-Their email will already be registered with us and so it will appear as you start to type. Select and click 'Update' \(red button, bottom right\) to save.
+**Caso 1: O Produtor em questão já tem uma conta registrada na OFB:**   
+O email dele já vai estar nos nossos registro, então aparecerá assim que você começar a digitá-lo. Selecione o email e clique em 'atualizar' \(botão vermelho, em baixo à direita\) para salvar. 
 
 {% hint style="warning" %}
-Warning: you must search for the exact **full** email. We recommend searching our list of users by copying and pasting the **entire** email address.
+Aviso: você deve buscar pelo email **inteiro**. Nós recomendamos buscar na nossa lista de usuários pelo email, copiar e colar. 
 {% endhint %}
 
-**Case 2: The Producer in question does not yet have a user account with OFN:**  
-In this case, you can not find their email when you type in the box 'Add an Existing User'. You must then click on "Add an Unregistered User" just below, next to the 'Invite Manager' field.  
-The producer will then receive an email from us to confirm their registration. On following the instructions detailed in the email they will be able to complete setting up their OFN account, including adding a password.
+**Caso 2: O Produtor em questão ainda não tem uma conta registrada na OFB:**   
+Nesse caso, você **não** vai conseguir encontrar o email do produtor quando começar a digitar na caixa 'adicionar um usuário existente'. Você vai precisar clicar em 'adicionar um usuário não registrado' logo abaixo, ao lado do campo 'Convidar Gerente'. Feito isto, o produtor receberá um email da OFB para que ele confirme o cadastro. Seguindo as instruções detalhadas no email eles serão capazes de completar o registro da conta, com um login e senha.
 
-Once the producer is a manager of the enterprise profile you created on their behalf, you can choose to name them the main manager and/or the contact to receive order notification. At this stage, as a hub manager you may wish to remove yourself from the list of managers.
+Assim que o produtor for um também um administrador do perfil da iniciativa que você criou par aele, você pode esoclher nomeá-lo como administrador principal e / ou entrar em contato para receber notificações de pedidos. Neste ponto, você como administrador da Central, pode ser remover da lista de administradores da iniciativa do Produtor.
 
 {% hint style="warning" %}
-Do not forget to click 'Update' to save your changes!
+Não se esqueça de clicar em 'atualizar' para salvar suas mudanças!
 {% endhint %}
 
 {% hint style="info" %}
-By default, a user can not be a manager / owner of **more than 5 enterprises**.  
-If you receive a message stating that _the new user has reached their limit_, contact us and we will increase their business limit.
+Por padrão, um usuário não pode ser administrador ou dono de **mais de 5 iniciativas.** Se você receber uma mensagem dizendo que o _novo usuário alcançou o limite,_ entre em contato para que possamos aumentar o limite de iniciativas.
 
-This measure is intended to avoid the massive creation of profiles by robots, something that could blow our server and make the platform unavailable. It is a classic prevention measure.
+Esta é uma medida para evitar a criação em massa de perfis por robôs, algo que poderia sobrecarregar nossos servidores. É uma medida comum de prevenção.
 {% endhint %}
 
