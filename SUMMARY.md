@@ -18,7 +18,7 @@
     * [Como mudar os administradores ou donos de um perfil](recursos-basicos/enterprise-profile/transfer-ownership.md)
   * [Produtos](recursos-basicos/products-1/README.md)
     * [Adicionar produtos](recursos-basicos/products-1/products.md)
-    * [Product variants](recursos-basicos/products-1/product-variants.md)
+    * [Variantes de Produtos](recursos-basicos/products-1/product-variants.md)
     * [Product properties](recursos-basicos/products-1/product-properties.md)
     * [Pricing Meat & other 'complete' products of unknown weight](recursos-basicos/products-1/pricing-irregular-items-kg.md)
     * [Inventory tool](recursos-basicos/products-1/inventory-tool.md)

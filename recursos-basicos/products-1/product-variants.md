@@ -1,12 +1,14 @@
-# Product variants
+# Variantes de Produtos
 
-If you are listing two or more products which are very similar, but only vary on price, or size, or something like flavour, it is best to create a ‘variant’ for that product, rather than creating multiple, separate products. This will make the listing clearer to customers and prevent your store from becoming cluttered.
+Se você estiver listando dois ou mais produtos quase idênticos, mas que variam no preço, ou no tamanho, ou no sabor, etc., é melhor criar uma 'variante' para aquele produto, ao invés de criar multiplos produtos separados. Isso vai fazer com que seu catálogo fique mais claro para consumidores e evitar que a sua loja virtual fique cheia demais. 
 
 ![Shop display for Corn Cobs sold with two variants.](../../.gitbook/assets/corncob-variants.png)
 
-## How do I create a Product Variant?
+## Como eu crio uma Variante de Produto? 
 
-First of all, it is necessary to create a product, which will automatically be also the first variant of this product. For more details on adding simple products, click [here](products.md).
+Antes de mais nada, é necessário criar um produto, que vai ser automaticamente a primeira variante deste produto. Para mais informações sobre como adicionar simples produtos, clique [aqui](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4kk2XTvSZ89sQiM17I/recursos-basicos/products-1/products). 
+
+No Painel de Controle, acesse a página  'Produtos',  onde você vai achar a lista de produtos para 
 
 In your admin dashboard, go to the products page where you will find the list of products for companies of "producer" nature that you manage. To see **all the variants** associated with your products, click on "Expand All" in red at the top left of the table.
 
