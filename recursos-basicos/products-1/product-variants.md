@@ -8,37 +8,35 @@ Se você estiver listando dois ou mais produtos quase idênticos, mas que variam
 
 Antes de mais nada, é necessário criar um produto, que vai ser automaticamente a primeira variante deste produto. Para mais informações sobre como adicionar simples produtos, clique [aqui](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4kk2XTvSZ89sQiM17I/recursos-basicos/products-1/products). 
 
-No Painel de Controle, acesse a página  'Produtos',  onde você vai achar a lista de produtos para 
-
-In your admin dashboard, go to the products page where you will find the list of products for companies of "producer" nature that you manage. To see **all the variants** associated with your products, click on "Expand All" in red at the top left of the table.
+No Painel de Controle, acesse a página  'Produtos',  onde você vai achar a lista de produtos disponíveis para você adicionar à sua loja de virtual. Para ver **todas as variantes** associadas a seus produtos, clique em "Expandir Tudo", em vermelho, no topo da tabela, à esquerda.
 
 ![](../../.gitbook/assets/variants1.jpg)
 
-To see see the variants of a specific product only, click on the angle "&gt;" to the left of the first column of the table. If you wish to create a new variant for this product, click on the small plus "+" which is displayed just below as shown above.
+Para ver as variants de um produto específico, clique na seta '&gt;' à esquerda da primeira coluna da tabela. Se você deseja criar uma nova variante para este produto, clique no pequeno '+', logo abaixo da seta.
 
-This will add a new line allowing you to quickly enter information about the second variant:
+Isto irá abrir uma nova linha permitindo que você rapidamente adicione as informações da segunda variante. 
 
 ![](../../.gitbook/assets/variants2.jpg)
 
-The first line corresponds to the 'parent product' which will be offered for sale to customers in the form of several variants. Some product-level information will therefore apply to all variants, such as the unit of measure, the name of the unit if the product is sold individually, the properties, the conditions of transport, etc.
+A primeira linha corresponde ao 'produto base', que será disponibilizado na loja virtual para os consumidores, com suas diversas variantes. Algumas informações do produto base vão servir para todas as variantes, como a unidade de medida, o nome do produto, as propriedades, condições de transporte, etc.  
 
-The 2nd and 3rd lines are here the 2 variants of the product. Each variant is distinguished from the others by at least one differentiating element, such as the unit \(eg. packaging per 500g instead of 100g for the first variant\) and, very often, the associated price. Slight variations in the nature of a product \(eg. flavour\) can be detailed by changing the name of each variant \(eg. variant one has name = 'goats cheese- herbs' and variant two has name= 'goats cheese- garlic'\).
+A segunda e terceira linha correspondem às duas variantes do produto. Cada variante se distingue das outras por pelo menos um elemento diferenciado, como seu peso, por exemplo \(ex.: pacote de 500g ao invés de pacote de 1kg da primeira variante\) e, geralmente, o preço associado. Pequenas variações na natureza do produto \(por exemplo, o sabor\) podem ser informadas trocando o nome de cada variante \(ex.: 'mel -florada silvestre' é a primeira variante e 'mel - florada assa-peixe' é a segunda variante\).
 
 {% hint style="info" %}
-To avoid errors when reading reports, we strongly recommend that you always name each variant differently.
+Para evitar erros quando você gerar relatórios, é importante que você sempre coloque nomes diferentes para cada variante.
 {% endhint %}
 
 {% hint style="danger" %}
-At the moment, stock levels can only be defined **at the level of the variant.**
+No momento, os níveis de estoque podem ser definidos somente **no nível da variante.**
 
-We know this might be a problem if you have a fixed amount of an item but wish to retail in bulk quantities as well as singularly. \(eg if you have only 5 kg of tomatoes in total but wish to sell as variants of 100 g and 1 kg you will have to manage your stock levels between the two variants manually.\)
+Sabemos que isso porde ser um problema se você tem uma quantidade limitada de um item mas gostaria de vendê-lo em 'pacotes' diferentes. Por exemplo, você tem 5 kg de tomates mas quer vendê-los em variantes de 100g e de 1kg, será preciso que você gerencie os níveis de estoque entre as duas variantes manualmente. 
 {% endhint %}
 
 {% hint style="success" %}
-There is no maximum number of variants for a product. You can add as many as you need.
+Não existe um número máximo de variantes por produto. Você pode adicionar quantas você quiser. 
 {% endhint %}
 
 {% hint style="info" %}
-When you are finished always select 'save changes' in the red box at the bottom right of the screen.
+Quando terminar, sempre selecione 'salvar alterações' no botão vermelho no canto inferior direito da tela.
 {% endhint %}
 
