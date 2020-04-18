@@ -1,12 +1,12 @@
-# Pricing Meat & other 'complete' products of unknown weight
+# Precificando carnes e outros produtos 'inteiros' de peso variável
 
-Here we refer to products as _**'irregular'**_ if they are sold according to weight/volume but the exact quantity is not known until time of harvest/distribution.
+Chamamos de produtos 'irregulares' os produtos vendidos de acordo com o peso / volume mas cuja quantidade exata é desconhecida até o momento da distribuição do pedido. Exemplos: grandes legumes, fatias de queijo, fatias de carne. 
 
-For example joints of meat, slices of cheese, large vegetables.
+Há uma série de recursos disponíveis na plataforma que ajudar a lida com esse tipo de produto.
 
-There are a number of different tools available on the OFN platform to help manage and organise these sales.
+## Opção 01: Definir um peso / preço médio e reembolsar.  
 
-## Option One: Set an average weight / price and reimburse
+Você pode cobrar pelo preço médio do produto, e reembolsar 
 
 You can charge the average price of the product, and then reimburse or charge the customer extra, if the actual weight deviates from the mean.
 

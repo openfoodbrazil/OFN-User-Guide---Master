@@ -1,102 +1,91 @@
-# Product properties
+# Propriedades de Produto
 
-You can apply product properties to your products, as a way of letting your customers know more about how your products are produced and what their characteristics are. Current product properties that can be applied include:
+Você pode aplicar propriedades aos produtos, como uma maneira de informar os consumidores sobre como seus produtos são produzidos e quais são suas características. Algumas propriedades que podem sem aplicadas incluem:
 
-* Certified Organic/ Fair Trade / Biodynamic
-* Produced within 15 / 30 / 50 miles
-* RSPCA assured
-* Grown in Polycultures
-* Gluten-free
-* Nut-free
-* Plastic-free
-* Dairy-free
-* Special Dietary Requirements
-* Vegan
-* Vegetarian
-* Special Offer
-* Green Coffee Shop Scheme
+* Agroecológico
+* Orgânico Certificado
 
 {% hint style="info" %}
-If you'd like to apply a property which is not listed above then please get in touch. We consider any new properties which might have widespread appeal.
+Se você quiser aplicar um propriedade que não está listada acima, por favor entre em contato. Vamos considerar as propriedades que tiverem um uma relevância abrangente. 
 {% endhint %}
 
-There are two ways to assign properties to your products:
+Existem duas maneiras de aplicar propriedades aos seus produtos:
 
-1\) You can assign a property to an enterprise, so that all products belonging to that enterprise will carry this property \(unless it’s manually removed, which is covered in the **“Inherited Properties”** section below\).
+1\) Você pode aplicar uma propriedade a uma inciativa, de modo que todos os produtos pertencentes a essa iniciativa vão carregar essa propriedade \(a menos que ela seja manualmente removida, como descrito abaixo em **Propriedades Herdadas'** :
 
-2\) You can assign properties to particular products, on an individual basis.
+2\) Você pode aplicar propriedades a produtos espeçificos, um a um.  
 
-## Assigning a property to an enterprise
+## Aplicando uma propriedade a uma iniciativa
 
-When you assign a property to an enterprise, all products belonging to that enterprise will, by default, carry that product property. For instance, if all of your products are ‘Certified Organic’, you can assign this property to your enterprise, to save you from needing to manually apply this property to every product. If a property only applies to a few of your products, it’s better to apply it to the product, instead of the enterprise \(instructions below\).
+Quando você aplica uma propriedade a uma iniciativa, todos os produtos pertencentes a essa iniciativa vão, por padrão, carregar essa propriedade. Por exemplo, se todos os seus produtos tiverem a certificação de Orgânico, você pode aplicar essa propriedade à sua iniciativa, para evitar que você tenha que aplicar essa propriedade a cada produto. Se uma propriedade se aplica somente a alguns dos produtos, então o melhor é aplicá-la ao produto, ao invés da iniciativa \(como descrito abaixo\):
 
-You can access enterprise properties in your [Enterprise Settings](../enterprise-profile/enterprise-settings.md): in your Admin dashboard go to Enterprises -&gt; Settings -&gt; Properties
+Você pode acessar as propriedades da iniciativa nas [Configurações da Iniciativa](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4prd1Ot9ar0yPWa-2U/recursos-basicos/enterprise-profile/enterprise-settings): no Painel de Controle, acesse Iniciativas &gt; Configurações &gt; Propriedades. 
 
 ![](../../.gitbook/assets/properties1.jpg)
 
 {% hint style="warning" %}
-Properties only apply to [Producer](../enterprise-profile/package-types.md#for-producers) profiles, shops and hubs. This option will not be available to Non Producer Hubs.
+As propriedades estão disponíveis somente nos perfis de [Produtor](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4prd1Ot9ar0yPWa-2U/recursos-basicos/enterprise-profile/package-types#for-producers) - sejam Lojas ou Centrais. Esta opção não está disponível para perfis de não-produtor. 
 {% endhint %}
 
-Next, there are 2 fields when applying an enterprise property:
+Para aplicar uma propriedade, você precisa preencher dois campos: 
 
-**Property Name:** You can select a pre-defined product property from the drop-down list. This is the name of the property that your products will be tagged with, and which customers will be able to filter for in your shop.
+**Nome da Propriedade:** selecionar uma propriedade de produto do menu suspenso. Esta propriedade aparecerá como uma _tag_ dos seus produtos, que os consumidores poderão utilizar como filtro.
 
-**Description:** You can add a small description to give more information about your label. For example you may wish to add a certificate number.
+**Descrição:** aqui você pode dar mais informações sobre a propriedade. Você pode adicionar, por exemplo, um número de registro da sua certificação.
 
 {% hint style="info" %}
-You can add as many properties as you wish to your enterprise.
+Você pode aplicar quantas propriedades quiser à iniciativa.
 {% endhint %}
 
 {% hint style="warning" %}
-Don't forget to save your changes by clicking 'Update' in the red box, bottom right.
+Não se esqueça de salvar suas modificações clicando no botão vermelho 'atualizar', no canto inferior direito 
 {% endhint %}
 
-## Assigning a property to a product
 
-To assign a property to a single product, rather than an enterprise’s entire product range, click on **Products** in the horizontal blue banner, and then edit an existing product \(you cannot apply a product property when you are first creating a product\).
 
-To edit a product, click on the edit icon \(pencil and paper\) on the right hand side of the table.
+## Aplicando uma propriedade a um produto.
+
+Para aplicar uma propriedade a um único produtos, ao invés de todos os produtos da iniciativa, acesse o menu Produtos na barra horizontal azul do painel de controle, e clique no ícone 'editar' ao lado do produto em questão \(veja imagem abaixo\). Você não pode aplicar uma propriedade de produto quando estiver criando um produto pela primeira vez. 
 
 ![](../../.gitbook/assets/property-to-product.png)
 
-Once editing the product you can add or change its properties by selecting 'Product Properties' from the right hand menu.
+No painel de edição do produto você pode adiconar ou mudar suas propriedades selecionando 'Propriedades de Produto' do menu à direita. 
 
 ![](../../.gitbook/assets/properties2.jpg)
 
-There are 2 fields when applying a product property:
+Para aplicar uma propriedade, você precisa preencher dois campos:
 
-**Property Name:**You can select a pre-defined product property from the drop-down list. This is the name of the property that your product will be tagged with, and which customers will be able to filter for in your shop.
+**Nome da Propriedade:** selecionar uma propriedade de produto do menu suspenso. Esta propriedade aparecerá como uma _tag_ dos seus produtos, que os consumidores poderão utilizar como filtro.
 
-**Description:** You can add a small description to give more information about your label. For example you may wish to add a certificate number.
+**Descrição:** aqui você pode dar mais informações sobre a propriedade. Você pode adicionar, por exemplo, um número de registro da sua certificação.
 
-You can apply multiple product properties by clicking “**+ Add Product Properties**“
+Você pode adicionar múltiplas propriedades de produto clicando em: **+ Propriedades de Produto**. 
 
 {% hint style="warning" %}
-Remember to click **update** when you are finished.
+Não se esqueça de salvar suas modificações clicando no botão vermelho 'atualizar', no canto inferior direito 
 {% endhint %}
 
-## Inherited Properties
+## Propriedades herdadas
 
-As discussed [above](product-properties.md#assigning-a-property-to-an-enterprise), when an enterprise is assigned a property, all products belonging to that enterprise will ‘inherit’ this property. However, it is possible to override this automatic inheritance.
+Como explicado [acima](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M4prd1Ot9ar0yPWa-2U/recursos-basicos/products-1/product-properties#assigning-a-property-to-an-enterprise), quando uma propriedade é aplicada a uma iniciativa, todos oso produtos pertencentes a essa iniciativa irão 'herdar' essa propriedade. Entretanto, é possível anular essa herança automática.
 
-When editing a product’s properties you will see a checkbox titled **“Inherit properties from \(Enterprise Name\)\(Unless Overridden Above\)”.** By default, when an enterprise has a property, this box will be checked for all products belonging to the enterprise. Unchecking this box will remove any enterprise properties that have been inherited.
+No painel de edição das propriedades do produto, você verá uma caixa de seleção intitulada **'Herdar propriedades de \(Nome da Iniciativa\)**. Por padrão, como uma iniciativa tem uma propriedade, esta caixa permanecerá selecionada para todos os produtos pertencentes a essa iniciativa. Ao desmarcar esta caixa você remove qualquer propriedade da iniciativa que tenha sido herdada. 
 
 ![](../../.gitbook/assets/properties3.jpg)
 
 {% hint style="warning" %}
-If you left the box checked and you add a property to the product, which already exists at the enterprise level, the description of the property added at the product level will be preferred to the description at the enterprise level.
+Se você deixar a caixa marcada e adicionar uma propriedade de produto que já tenha sido herdada, a descrição da propriedade adicionada a nível do produto será priorizada em relação à descrição a nível da iniciativa. 
 
-This is useful if you would like to modify only the description of a label on selected products. \(For example, if all your products are 'Certified Organic', but two products have a different certificate number to the rest then you can add the main certificate number to the enterprise property description and the other number to the two products which are different using these product property descriptions.\)
+Isto pode ser útil caso você queria modifica somente a descrição de uma propriedade em determinados produtos \(por exemplo, se todos seus produtos forem 'Orgânico Certificado', mas alguns deles tem um número de registro de certificação diferente, então você pode modificar o número somente para esses produtos específicos\).
 {% endhint %}
 
-## View Product Properties in online shop
+## Ver Propriedades de Produto na loja online 
 
-By clicking on the profile of a producer, Enterprise Properties appear on the pop out page:
+Clicando em um perfil de um produtor, as propriedades da iniciativa aparecem na janela pop-up: 
 
 ![](../../.gitbook/assets/viewproperty.jpg)
 
-Customers can also filter products in a shop based on their properties:
+Consumidores também podem filtrar produtos em uma loja com base nas propriedades:
 
 ![](../../.gitbook/assets/filter-by-property.png)
 
