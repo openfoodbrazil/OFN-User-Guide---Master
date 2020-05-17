@@ -6,63 +6,60 @@ Há uma série de recursos disponíveis na plataforma que ajudar a lida com esse
 
 ## Opção 01: Definir um peso / preço médio e reembolsar.  
 
-Você pode cobrar pelo preço médio do produto, e reembolsar 
+Você pode cobrar pela média de preço do produto e, caso o preço final seja maior, você pode cobrar um valor extra do comprador. Se for menor, você pode reembolsá-lo.
 
-You can charge the average price of the product, and then reimburse or charge the customer extra, if the actual weight deviates from the mean.
-
-When you know the true weight of the products \(ie. when you are preparing orders for collection by customers\), log into "Bulk Order Management" \(Orders -&gt; Bulk Order Management\) and add the Weight / Volume column to the table.
+Quando você souber o verdadeiro peso do produto vendido \(ou seja, quando estiver preparando o pedido para ser enviado ou coletado pelo comprador\), acesse o menu ´Encomendas´,  em seguida ´Gestão de Pedidos por Atacado´ e adicione a coluna Peso / Volume à tabela.
 
 ![](../../.gitbook/assets/bom1.jpg)
 
-You can then change the weight shown for each buyer for a given order and a given product. The price will be recalculated automatically according to the quantity entered.
+Você pode então mudar o peso referente a cada produto, por cada compra. O preço então será recalculado automaticamente de acordo com a nova quantidade inserida.
 
 {% hint style="info" %}
-Don't forget to resend an order confirmation email to the customer to notify them of the price difference and any monies they may subsequently owe.
+Não se esqueça de reeviar o email de confirmação de pedido para os seu cliente, para notificá-lo da diferença de valor cobrado.
 {% endhint %}
 
-## Option Two: Display price ranges
+## Opção 02: Mostrar faixa de preço
 
-Same logic as Option One, but simply instead of displaying an average price initially, indicate a price range. This solution has the advantage of clearly indicating to the buyer that the final price is likely to be modified.
+A mesma lógica da opção 01, mas ao invés de definir um preço médio, indica-se uma faixa de preço. Esta solução tem a vantagem de comunicar claramente ao comprador que o preço final deve variar. 
 
-[Variants](product-variants.md) can also be utilised to create different ranges.
+[Variantes](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M5iVg4Hr748l7-hYgcH/recursos-basicos/products-1/product-variants/@merged) também podem ser utilizadas para criar diferentes faixas de preço.
 
-> **Example 1** \(single product and one variant\):  
-> Product = Chicken \(between 8 and 12 kg with price according to weight, £10 / kg\)
->
-> **Example 2** \(two variants for one product\):  
-> Product = Chicken \(£10 / kg\)  
-> Variant 1 = Small chicken \(between 8 and 12 kg, price according to actual weight\)  
-> Variant 2 = Large chicken \(between 13 and 20 kg, price according to actual weight\) ...
+> **Exemplo 1** \(produto único e uma variante\):  
+> Produto = Abóbora \(entre 1 e 3 kg, com preço variando de acordo com o peso, R$ 5,00 / kg\)
 
-## Option Three: Create variants with fixed prices
+> **Exemplo 2** \(duas variantes para um produto\):  
+> Produto = Abóbora \(R$ 5,00 / kg\)  
+> Variante 1 = Abóbora pequena \(entre 1 e 2 kg, preço final varia com o peso\)  
+> Variant 2 = Abóbora grande \(entre 2 e 3 kg, preço final varia de acordo com o peso\)
 
-A slightly simpler version of Option Two is to create variants for your products based on weight ranges but charge a **fixed price** for all items that fall within the range.  
-For example if butternut squash costs £1/kg then you could list the variants with the following fixed prices:
+## Opção 3 : Criar variantes com preços fixos.
 
-* Small \(0.7 - 0.9 kg\)           £0.80
-* Medium \(0.9 - 1.1 kg\)      £1.00
-* Large \(1.1 - 1.3 kg\)           £1.20
-* Extra Large \(1.3 - 1.5 kg\) £1.40
+Uma opção um pouco mais simples do que opção 2 é criar variantes para seus produtos com base nas faixas de peso, mas cobrar um **valor fixo** para todos as unidades que estejam dentro daquela determinada faixa. Por exemplo, se a abóbora custa R$5,00 / kg, então você poderia listar as variantes com os seguintes preços fixos: 
 
-## Option Four: Create variants with known weights
+* Pequena \(500 g - 1 kg\)  R$ 3,50
+* Média \(1 kg - 1,5 kg\) R$ 6,50
+* Grande \(1,5 kg - 2,0 kg\) R$ 8,50
+* Muito Grande \(2,0 kg - 2,5 kg\) R$ 11,50
 
-If you know the weight of all your whole fish, for example, in advance you can use the variant functionality to directly display the precise price for each item. Example:
+## Opção 4: Criar variantes com pesos específicos
+
+Se você souber, antecipadamente, o peso de todas as suas abóboras, por exemplo, você pode usar as variantes para mostrar o preço exato de cada unidade a ser vendida:
 
 ![](../../.gitbook/assets/bom2.jpg)
 
-## Editing Orders
+## Editando Pedidos
 
-It may be difficult for meat producers to know in advance about product availability or prepare their packaging accordingly. \(Until slaughter the weight of a chicken or a leg of lamb maybe unknown.\)
+Pode ser difícil para produtores de carne saberem antecipadamente o peso de cada peça. Isto não é um problema já que os pedidos podem ser editados \(adicionando, modificando ou deletando produtos\) caso necessário. Para mais informações, veja [Pedidos](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M5iVg4Hr748l7-hYgcH/recursos-basicos/orders/@merged).
 
-This is not a problem since orders can be modified \(by adding, modifying or deleting products\) if necessary. For more information, see [Orders](../orders/).
+## Como reembolsar compradores ou cobrar um valor extra?
 
-## Reimbursing or Charging customers the difference: How does it work?
+Se o comprador for pagar pelos produtos no momento da entrega ou coleta, então você terá tempo para modificar o pedido de acordo com o peso real das mercadorias e os produtos que de fato serão entregues. Nesse caso, não é preciso reembolsar ou enviar uma nova cobrança ao comprador. 
 
-If a customer _**pays for their goods on their collection**_ or delivery, then the hub manager will have been able to modify the order before payment according to the actual weight and the products actually delivered. Hence in this instance there will be no need to reimburse or re-bill customer.
-
-If an order is _**paid online before delivery**_, then you must refund or invoice for the the difference between monies already received and that owing for the precise products to be delivered. Click here to see [how](../orders/refund-payments.md).
+**Caso o** **pedido seja pago online, antes da entrega**, então você precisará reembolsar ou enviar uma cobrança extra ao comprador. [Clique aqui para saber como](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M5iVg4Hr748l7-hYgcH/recursos-basicos/orders/refund-payments/@merged). 
 
 {% hint style="danger" %}
+Uma alternativa é configurar um sistema de pagamento online para temporariamente
+
 An alternative is to use an online payment system to temporarily store the amount "pending" until the order has been validated.
 
 _This feature is not yet implemented in Open Food Network. We are also working on the automated implementation of "credits" allowing a hub to reimburse in the form of a credit note which could be used by the customer as part payment for their next order._
