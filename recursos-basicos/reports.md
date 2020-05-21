@@ -74,7 +74,7 @@ Enterprises can set up [Enterprise Fees](shopfront/enterprise-fees.md) to identi
 
 The report can be filtered by Shopfront \(**Hub**\), **Producer** and **Order** **Cycle**, as well as Fee Names and Shipping and Payment methods.
 
-![Enterprise Fee Summary Report](../.gitbook/assets/image-24.png)
+![Enterprise Fee Summary Report](../.gitbook/assets/image%20%2824%29.png)
 
 **Example 1**: a Shop includes a 2% fundraising fee on every order. They can use the Enterprise Fee Summary report to identify the total funds raised within a particular order cycle.
 
@@ -82,7 +82,7 @@ The report can be filtered by Shopfront \(**Hub**\), **Producer** and **Order** 
 
 **Example 3:** a Hub includes a fee to show customers the amount they pay to Open Food Network for their use of the platform. This fee is calculated as a percentage of all orders placed. The below screenshot is an example of this scenario:
 
-![Enterprise Fee Summary Report for a specified Fee \(Open Food Network Fee\) ](../.gitbook/assets/image-2.png)
+![Enterprise Fee Summary Report for a specified Fee \(Open Food Network Fee\) ](../.gitbook/assets/image%20%282%29.png)
 
 ## Packing Reports
 

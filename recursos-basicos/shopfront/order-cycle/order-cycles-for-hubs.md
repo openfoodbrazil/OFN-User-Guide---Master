@@ -25,7 +25,7 @@ You can create an order cycle, and view previous order cycles by clicking on **M
 
 Or from the horizontal menu at the top of the page.
 
-![](../../../.gitbook/assets/ordercycle1-2.jpg)
+![](../../../.gitbook/assets/ordercycle1%20%282%29.jpg)
 
 {% hint style="warning" %}
 You will not be able to publish a live order cycle until you have at least one [payment](../payment-methods.md) and [shipping](../shipping-methods.md) method set up for your enterprise.
@@ -43,7 +43,7 @@ Once the order cycle coordinator has been chosen, the process of setting up is d
 
 ### 1\) General Settings
 
-![](../../../.gitbook/assets/ordercycle3-1.jpg)
+![](../../../.gitbook/assets/ordercycle3%20%281%29.jpg)
 
 **Name \(**_**required**_**\):** Give the order cycle a name which is meaningful to you. We recommend that you follow a consistent naming protocol e.g FoodHub\_Week27\_2014. We also recommend that you include the name of your hub in the order cycle name, so that OFN support can identify your order cycles if you need assistance.
 

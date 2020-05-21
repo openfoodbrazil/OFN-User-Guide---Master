@@ -1,6 +1,6 @@
-# Precificando carnes e outros produtos 'inteiros' de peso variável
+# Como precificar carnes e outras peças 'inteiras'.
 
-Chamamos de produtos 'irregulares' os produtos vendidos de acordo com o peso / volume mas cuja quantidade exata é desconhecida até o momento da distribuição do pedido. Exemplos: grandes legumes, fatias de queijo, fatias de carne. 
+Chamamos de peças 'inteiras' os produtos vendidos de acordo com o peso / volume mas cuja quantidade exata é desconhecida até o momento da distribuição do pedido. Exemplos: grandes legumes, fatias de queijo, fatias de carne. 
 
 Há uma série de recursos disponíveis na plataforma que ajudar a lida com esse tipo de produto.
 
@@ -58,16 +58,16 @@ Se o comprador for pagar pelos produtos no momento da entrega ou coleta, então 
 **Caso o** **pedido seja pago online, antes da entrega**, então você precisará reembolsar ou enviar uma cobrança extra ao comprador. [Clique aqui para saber como](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M5iVg4Hr748l7-hYgcH/recursos-basicos/orders/refund-payments/@merged). 
 
 {% hint style="danger" %}
-Uma alternativa é configurar um sistema de pagamento online para temporariamente
+Uma alternativa é configurar o sistema de pagamento online para que o pagamento fique temporariamente 'pendente', até que o pedido seja validado
 
-An alternative is to use an online payment system to temporarily store the amount "pending" until the order has been validated.
-
-_This feature is not yet implemented in Open Food Network. We are also working on the automated implementation of "credits" allowing a hub to reimburse in the form of a credit note which could be used by the customer as part payment for their next order._
+_Esta opção ainda não foi implementada na plataforma. Também estamo trabalhando na implementação automática de 'créditos', para permitir que uma loja reembolse seus consumidores na forma de 'créditos' que podem ser usados para outras compras na plataforma._
 {% endhint %}
 
-## Inform the buyer about your pricing policy
+## Informe o consumidor da sua política de preços.
 
-You can notify your customers about your pricing policies for variable weight items \(such as meat\) in the [message box](../enterprise-profile/enterprise-settings.md#shop-preferences) displayed at the top of your shop front. This is found in the Enterprise Settings -&gt; Shop Preferences.
+Você pode notificar seus consumidores sobre sua política de preços para produtos de preço variável \(como carne\) na [caixa de mensagem](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M7Xcp8ywgpUeWeluDdf/recursos-basicos/enterprise-profile/enterprise-settings#shop-preferences/@drafts) que aparece no topo da página da sua loja virtual. 
 
-It might be useful to also add a reminder of these pricing policies in the description box of [Payment Methods](../shopfront/payment-methods.md). For example, you may wish to add : "Remember that the final price may vary by 10% depending on weight if you have purchased non-divisible items such as meat or large vegetables.".
+Você encontra este recurso em Configurações da Iniciativa &gt; Preferências da Loja.  
+  
+Também é recomendável explicar como funciona a sua política de preços na caixa de [Métodos de Pagamento](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M7Xcp8ywgpUeWeluDdf/recursos-basicos/shopfront/payment-methods/@drafts). Por exemplo, você pode escrever: 'lembre-se que o preço final de peças inteiras, como a galinha ou a abóbora, pode variar em 10% dependendo do peso final da produto.' 
 

@@ -44,7 +44,7 @@ This rule lets you make particular variants visible/invisible to tagged customer
 
 In the example below the 1 kg variant of delux muesli has been tagged 'member'. It would thus be possible to set up tag rules such that by default only the smaller 500 g \(non-tagged\) variant of delux muesli appears on the shop front unless the customer belongs to a group of buyers all tagged 'member' \(in which case they would be able to view the 1 kg option too\).
 
-![](../../../.gitbook/assets/varianttags-1.jpg)
+![](../../../.gitbook/assets/varianttags%20%281%29.jpg)
 
 ### **Show/Hide shipping methods**
 

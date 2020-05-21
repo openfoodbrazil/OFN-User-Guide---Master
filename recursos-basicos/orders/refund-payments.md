@@ -23,7 +23,7 @@ _If the customer made the payment for their order to your business Stripe accoun
 
 Make sure the order you wish to refund is marked as 'PAID':
 
-![](../../.gitbook/assets/image-17.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 Adjust the order as necessary \(read [here](view-orders.md#editing-an-order) for how to edit an order or read more about [bulk order management](view-orders.md#bulk-order-management) for managing scenarios such as [product shortage](view-orders.md#example-1-you-have-a-stock-shortage-and-must-reduce-customer-order-quantities-for-a-certain-product) or [irregularly priced meat items](../products-1/pricing-irregular-items-kg.md).\)
 

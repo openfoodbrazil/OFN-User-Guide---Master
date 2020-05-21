@@ -85,7 +85,7 @@ In the import process, variants are distinguished by the units \(such as salad s
 
 The image below shows how these products will display in the shop. Note that the 'name' field becomes the primary heading, and the 'display\_name' field becomes the secondary heading. In the case of the Salad Bag, the 'display\_name' field is blank, so the 'name' is used by default.
 
-![](../../.gitbook/assets/image-1.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 #### Unit type examples
 

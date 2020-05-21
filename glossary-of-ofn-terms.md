@@ -27,5 +27,5 @@
 
 ![Deletar](.gitbook/assets/trash.jpg)
 
-![Encomenda / Entrega](.gitbook/assets/shipped-2.png)
+![Encomenda / Entrega](.gitbook/assets/shipped%20%282%29.png)
 

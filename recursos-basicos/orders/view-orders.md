@@ -49,7 +49,7 @@ On the right hand side of the listing view you can update the payment/shipping s
 
 Click on the tick icon to indicate that payment has been received \(this records full payments only\).
 
-![Update to Paid icon](../../.gitbook/assets/tick-1.png)
+![Update to Paid icon](../../.gitbook/assets/tick%20%281%29.png)
 
 Click on the road icon to indicate that the order has been shipped.
 

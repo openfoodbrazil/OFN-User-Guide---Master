@@ -49,7 +49,7 @@ If you use Stripe as the payment method for subscriptions it is helpful to the c
 For example, rather than calling the [payment method](../shopfront/payment-methods.md) 'Credit card' you might like to call it 'automated credit card billing for subscriptions'. A possible description could be 'Your default credit card saved in your OFN account will be charged when your subscription order is confirmed on Wednesday nights'. This name and description will show on the email confirmation to subscription customers \(see example below\), so it's good to make it details so the customer knows what to expect.
 {% endhint %}
 
-![](../../.gitbook/assets/image-15.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 ## Gather information from your customers
 

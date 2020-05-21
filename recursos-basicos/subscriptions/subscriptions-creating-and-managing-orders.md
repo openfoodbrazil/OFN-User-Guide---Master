@@ -98,7 +98,7 @@ To make changes to the whole subscription \(ie all orders placed from now on for
 
 Select the enterprise with which the customer has a subscription from the drop-down menu.
 
-![](../../.gitbook/assets/sub1-1.jpg)
+![](../../.gitbook/assets/sub1%20%281%29.jpg)
 
 A table listing all your customers' subscriptions will be then visible. Select the Edit \(pen and paper\) icon to the right of the customer:
 

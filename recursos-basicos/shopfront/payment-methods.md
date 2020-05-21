@@ -13,7 +13,7 @@ Before you read on, you might like to look at a quick demonstration of how to se
 * Go to the Payment Methods page by clicking on **Enterprises** in the blue horizontal menu, and then click **Settings** next to your enterprise. The **Payment Methods** page is found in the menu on the left hand side.
 * Click **Create new payment method +** . You will be directed to a page like this:
 
-![](../../.gitbook/assets/paymentmethod1-1.jpg)
+![](../../.gitbook/assets/paymentmethod1%20%281%29.jpg)
 
 * Tick your enterprise, in the box on the right hand side of the page titled Hubs. This indicates which enterprise the payment method you are about to create will apply to. You can select more than one enterprise.
 * **Name:** Choose a name for this payment method. \(eg 'Pay with credit card using Paypal'\). This name is displayed at checkout and on customers' order confirmation emails.
@@ -54,7 +54,7 @@ To setup a PayPal payment method, you need a PayPal business or merchant account
 
 ![](../../.gitbook/assets/api-access.png)
 
-![](../../.gitbook/assets/api-signature-1.png)
+![](../../.gitbook/assets/api-signature%20%281%29.png)
 
 1. In OFN, make sure you are logged in as your Enterprise User. Go to an Enterprise and create a Payment Method. Select PayPal and fill in the details from the PayPal site.
 
@@ -142,7 +142,7 @@ When a customer pays for their order with Stripe, the funds \(minus Stripe's fee
 
 If you need to take additional payment from a customer because they have further balance due, you can create an invoice in Stripe. The customer will get sent an email asking for them to pay with Credit/Debit card. This won't be communicated to OFN, so you'll need to mark the payment off manually.
 
-![](../../.gitbook/assets/image-31.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 {% endtab %}
 
 {% tab title="Pin Payments" %}
