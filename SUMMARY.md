@@ -22,7 +22,7 @@
     * [Propriedades de Produto](recursos-basicos/products-1/product-properties.md)
     * [Como precificar carnes e outras peças 'inteiras'.](recursos-basicos/products-1/pricing-irregular-items-kg.md)
     * [A ferramenta 'Inventário'](recursos-basicos/products-1/inventory-tool.md)
-    * [Group Buy - for bulk ordering](recursos-basicos/products-1/group-buy-for-bulk-ordering.md)
+    * [Compra em Grupo - para compras em atacado](recursos-basicos/products-1/group-buy-for-bulk-ordering.md)
     * [Product and Inventory import](recursos-basicos/products-1/product-and-inventory-import.md)
   * [Shopfront](recursos-basicos/shopfront/README.md)
     * [Shipping Methods](recursos-basicos/shopfront/shipping-methods.md)
