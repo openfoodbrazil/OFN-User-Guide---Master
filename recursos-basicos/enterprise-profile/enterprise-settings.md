@@ -199,27 +199,25 @@ Mensagem de loja virtual fechada: esta mensagem será mostrada quando sua loja e
 
 **Organização da Loja Virtual por Categorias:** por padrão, produtos são organizados por ordem alfabética na sua loja, mas você também pode escolhar mostrar os produtos por categoria. Neste caso, os produtos serão organizados por categoria e em ordem alfabética dentro de cada categoria. Ex: você talvez queira que os produtos da categoria 'legumes' apareçam primeiro, e os da categoria 'conservas' apareçam por último. 
 
-Ordenar Ciclos de Pedidos na Loja Virtual Por: se a sua loja virtual tiver mais de um ciclo de pedidos aberto ao 
+**Ordenar Ciclos de Pedidos na Loja Virtual Por:** se a sua loja virtual tiver [mais de um ciclo de pedidos aberto ao mesmo tempo](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8SJdXauB94C1aZTVJL/recursos-basicos/shopfront/order-cycle/opening-more-than-one-order-cycle/@drafts) você pode escolher em que ordem eles aparecem. Você pode optar por ordená-los por data de fechamento \(mostrar primeiro os ciclos que fecham mais cedo\) ou por ordem de abertura \(mostrar primeiro os ciclos que abrirem mais cedo\)
 
-**Sort order cycles on shopfront by:** If your shopfront has [more than one order cycle open at the same time](../shopfront/order-cycle/opening-more-than-one-order-cycle.md) you can select the order in which they appear on the shopfront. You may opt to sort them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
+**Loja Virtual Visível ao Público?** Se você selecionar 'público', qualquer comprador poderá acessar sua loja virtual e fazer um pedido. Se você selecionar **'**disponível somente para clientes registrados', compradores deverão fazer o login antes de acessar sua loja e somente aqueles que estiverem na sua lista terão acesso. Saiba mais sobre os [recursos de loja particular.](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8SJdXauB94C1aZTVJL/recursos-basicos/shopfront/private-shopfront/@drafts)
 
-**Publicly visible shopfront?** If you select ‘public’, any shopper will be able to access your shopfront and place an order. If you select ‘visible to registered customers only’, shoppers who come to your shop will be prompted to login and only those users who are on your customers list will be given access to your shop. Learn more about the [private shop feature](../shopfront/private-shopfront.md).
+**Pedidos de convidados?** Se você selecionar 'Permitir checkout de convidados', os compradores não precisarão fazer o login na OFB para comprar seus produtos, ou seja, eles não precisam criar uma conta própria na plataforma. Para se assegurar de que seus compradores tenham uma conta OFN, selecione 'Requisitar o login para fazer pedidos'. 
 
-**Guest Orders?** If you select ‘allow guest checkout’ shoppers won’t need to login to the OFN to shop with you, so they don't need to sign up and have a user account. If you want the extra security of knowing your customers must have an OFN account in order to have placed an order then select "require login to order".
-
-In order for a customer to have an OFN account they must have confirmed the email sent to them when registering with us. Thus, by selected "require login to order" it may help limit the number of orders placed that are subsequently never collected as you know that the customer's order confirmation email will be sent to an active email account.
+Para que um comprador crie uma conta na OFB ele precisa confirmar o email enviado após se registrar na plataforma. Por isso, selecionando  'Requisitar o login para fazer pedidos' você pode diminuir a quantidade de pedidos feitos e jamais coletados, pois você tem certeza de que o email de confirmação do pedido será enviado para uma conta de email verficada.
 
 {% hint style="warning" %}
 The 'Guest orders' setting is not applicable if you have opted for 'visible to registered customers only'.
 {% endhint %}
 
-### Users
+### Usuários
 
-**Owner:** This is the email of the primary user responsible for this enterprise. They have the power to change all aspects of the profile. Only the owner can change the owner, choosing among the enterprise managers list. This user will have a star next to their name in the managers' field.
+**Proprietário:** este é o email do usuário responsável por esta iniciativa. Ele tem a prerrogativade mudar todos os aspectos do perfil. Somente o proprietário pode mudar o proprietário, escolhendo entre os gestores da iniciativa cadastrados. Este usuário terá uma estrela ao lado do nome na lista de gestores. 
 
-**Notifications:** This is the email of the user to whom the OFN system correspondence will be directed, i.e. order confirmations etc. Only the owner can nominate the user who will receive the notifications, among the enterprise managers list. This user will have an envelope symbol next to their name in the managers' field.
+**Notificações:** este é o email do usuário para o qual serão enviados os comunicados da OFB, como confirmações de pedidos, etc. Somente o proprietário pode nomear o usuário que receberá as notificações, dentre os cadastrados na lista de gestores. Este usuário terá um símbolo de envelope ao lado do seu nome na lista de gestores. 
 
-**Managers:** Other OFN users who have been granted permission to manage this account. Want to add a new manager? You can search for existing emails of users who have registered for an OFN account and add them as managers. If you don't find any user for the email you are looking for, the user doesn't exist yet on the OFN, you need to invite them \(see next point\).
+**Gestores:** outros usuários da OFB que tenham permissão para gerenciar esta conta. Quer adicionar um novo gestor? Você pode buscar por emails existentes de usuários cadastrados na OFB e adicioná-los como gestores. Se você não encontrar nenhum usuário cadastrado para o email que você está buscando, significa que o usuário ainda não está cadastrado na plataforma e você antes precisa convidá-lo \(veja a seguir\).
 
-**Invite manager:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
+**Convidar Gestor:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
 
