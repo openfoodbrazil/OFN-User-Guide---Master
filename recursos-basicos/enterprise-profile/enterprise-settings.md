@@ -147,55 +147,59 @@ Você pode adicionar propriedades \(como 'orgânico' ou 'agroecológico'\) para 
 
 Você também pode especificar propriedades específicas para um produto em particular. Isso pode ser útil caso você venda produtos tanto produtos orgânicos quanto convencionais, por exemplo. Mais informações sobre isso podem ser encontradas [aqui.](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M2pFULdgaskSc3uOh17/recursos-basicos/products-1/product-properties)
 
-### Shipping Methods, Payment Methods & Enterprise Fees
+### Métodos de Envio, Métodos de Pagamento e Taxas da Iniciativa. 
 
 {% hint style="warning" %}
-Visible to Shops or Hubs registered enterprises only \(ie invisible for Producer/Non-Producer Profiles\)
+Apenas para Lojas e / ou Centrais  
+\(não se aplica a Perfis Simples\)
 {% endhint %}
 
-The [Shipping Methods](../shopfront/shipping-methods.md), [Payment Methods](../shopfront/payment-methods.md) and [Enterprise Fees](../shopfront/enterprise-fees.md) are covered in greater detail in later chapters in this user manual.
+Os [Métodos de Envio](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8RY6CbX7jO4xsKuOi2/recursos-basicos/shopfront/shipping-methods/@drafts), [Métodos de Pagamento](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8RY6CbX7jO4xsKuOi2/recursos-basicos/shopfront/payment-methods/@drafts) e [Taxas da Iniciativa](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8RY6CbX7jO4xsKuOi2/recursos-basicos/shopfront/enterprise-fees/@drafts) estão melhor detalhados em outros capítulos deste guia.
 
 {% hint style="danger" %}
-At least one method of **payment** and **delivery** must be setup to be able to open your online shopfront.
+Ao menos um método de **envio** e **pagamento** devem ser configurados para abrir a loja virtual.
 {% endhint %}
 
-### Inventory Settings
+### Configurações do Inventário
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Apenas para Lojas e / ou Centrais  
+\(não se aplica a Perfis Simples\)
 {% endhint %}
 
-For most enterprises the recommended setting can be used.
+A maior parte das iniciativas pode usar as configurações recomendadas.
 
-Advanced users who need greater flexibility with product management should consult the [Inventory](../products-1/inventory-tool.md) page of this guide before changing the settings.
+Usuários avançados que precisam de maior flexibilidade com a gestão dos produtos devem consultar a página sobre[ Inventário ](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8RY6CbX7jO4xsKuOi2/recursos-basicos/products-1/inventory-tool/@drafts)deste guia antes de mudar as configurações
 
-### Tag Rules
+### Regras para _Tag_
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Apenas para Lojas e / ou Centrais  
+\(não se aplica a Perfis Simples\)
 {% endhint %}
 
-Under this menu are all the 'tags' which have been assigned to the customers of your enterprise.
+Aqui você pode configurar as _tags_ que eventualmente tenham sido aplicadas aos clientes da sua iniciativa. 
 
-'Tags' are labels you apply to customers, products and other settings to assign differential access, pricing or other benefits to specific groups. They are particularly useful if you wish to charge loyal customers or 'members' of your food hub preferential prices or allow them to pay by BACS rather than PayPal/Stripe.
+_Tags_ são etiquetas que você aplica a consumidores, produtos e outros recursos para poder atribuir preços diferenciados, acesso e outros benefícios a um grupo específico de compradores. As tags são úteis se você quiser, por exemplo, oferecer descontos para membros ou clientes mais fiéis.
 
-For more information, visit the ['customer management and conditional displays/prices' section](../shopfront/customer-management-and-conditional-displays-prices/).
-
-### Shop Preferences
+### Preferências da Loja
 
 {% hint style="warning" %}
-Visible to Shop and Hub registered enterprises only.
+Apenas para Lojas e / ou Centrais  
+\(não se aplica a Perfis Simples\)
 {% endhint %}
 
-**Shopfront Message**: This message is optional. It will be displayed at the top of your online store, above the product listings. It’s an opportunity to provide basic information to the customer about how your store works. For example, you may explain how your order cycles are structured, or any membership requirements. It could also be a friendly greeting, or a chance to promote specials. An example is below:
+Mensagem da Loja Virtual: esta mensagem é opcional. Ela será mostrada no topo da página da sua loja virtual, sobre a lista de produtos. É uma oportunidade para fornecer informações básicas sobre o funcionamento da sua atividade. Por exemplo, você pode explicar como os seus ciclos de pedido funcionam, ou se há algum requisito para se tornar membro. Pode ser também uma saudação, ou mensagem promocional.
 
 ![](../../.gitbook/assets/shopfront-message.png)
 
-**Shopfront Closed Message**: This message will be displayed when your shopfront is closed \(no active order cycle\). It’s a chance to tell customers about how your ordering works, and when the shop will next be open and accepting orders.
+Mensagem de loja virtual fechada: esta mensagem será mostrada quando sua loja estiver fechada \(nenhum ciclo de pedido aberto\). É uma chance de explicar as seus consumidores sobre o funcionamento da sua atividade, e informar quando a loja estará novamente aberta.  
 
 ![](../../.gitbook/assets/store-closed.png)
 
-**Shopfront Category Ordering**: By default, products are arranged alphabetically in your shop. You can choose to display the products in order of category according to your wish. In this case, the products will be displayed in order of category and then in alphabetical order within their category. E.g. you may wish to have your Meat & Fish products to appear at the top, with your less important Pickles & Preserves appearing further down the shopfront.
+**Organização da Loja Virtual por Categorias:** por padrão, produtos são organizados por ordem alfabética na sua loja, mas você também pode escolhar mostrar os produtos por categoria. Neste caso, os produtos serão organizados por categoria e em ordem alfabética dentro de cada categoria. Ex: você talvez queira que os produtos da categoria 'legumes' apareçam primeiro, e os da categoria 'conservas' apareçam por último. 
+
+Ordenar Ciclos de Pedidos na Loja Virtual Por: se a sua loja virtual tiver mais de um ciclo de pedidos aberto ao 
 
 **Sort order cycles on shopfront by:** If your shopfront has [more than one order cycle open at the same time](../shopfront/order-cycle/opening-more-than-one-order-cycle.md) you can select the order in which they appear on the shopfront. You may opt to sort them by closing date \(closing soonest first\) or by opening date \(opening soonest first\).
 

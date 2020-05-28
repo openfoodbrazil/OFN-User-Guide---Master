@@ -88,7 +88,9 @@ Para restaurar o valor de estoque para estes produtos, clique em 'Ações' no ca
 > In this example the default stock level of baked beans is 5. There are currently 2 left in stock. If the user, at the beginning of an order cycle wishes to reset to 5 then they must click on 'Reset stock levels to defaults' under 'Actions'
 
 {% hint style="info" %}
-Este é um recurso útil para as Centrais que recebam carregamentos periódicos de produtos.
+Este é um recurso útil para as Centrais que recebam carregamentos de produtos específicos uma vez ao mês ou periodicamente.
+
+This is a useful feature for hubs who may receive deliveries of specific products once a month or on a regular schedule.
 {% endhint %}
 
 ### _Herdar?_
