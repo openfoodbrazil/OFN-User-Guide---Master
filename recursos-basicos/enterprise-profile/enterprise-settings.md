@@ -219,5 +219,5 @@ The 'Guest orders' setting is not applicable if you have opted for 'visible to r
 
 **Gestores:** outros usuários da OFB que tenham permissão para gerenciar esta conta. Quer adicionar um novo gestor? Você pode buscar por emails existentes de usuários cadastrados na OFB e adicioná-los como gestores. Se você não encontrar nenhum usuário cadastrado para o email que você está buscando, significa que o usuário ainda não está cadastrado na plataforma e você antes precisa convidá-lo \(veja a seguir\).
 
-**Convidar Gestor:** This is for adding a manager who is not registered with OFN. When you add them, they'll be sent an email confirmation and when they confirm their email they'll be able to set a password, and login to administer this enterprise.
+**Convidar Gestor:** use esta função para adicionar um gestor que ainda não esteja cadastrado na OFB. Quando você adicioná-lo, ele receberá um email de confirmação. Assim que confirmar o email, ele poderá cadastrar uma senha e fazer o login para começar a administrar a iniciativa. 
 

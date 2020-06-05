@@ -1,44 +1,38 @@
 ---
 description: >-
-  This page explains how both producers can to import product details and
-  distributors can set up their hub inventory in bulk.
+  Esta página explica como produtores e gestores podem importar uma planilha com
+  a lista detalhada de produtos.
 ---
 
-# Product and Inventory import
+# Importar lista de produtos.
 
-The product and inventory import tool lets you upload a .csv file to add and update your stock. This can be much quicker and efficient than adding or updating products one by one. For producers who already update a catalogue of their products in an Excel spreadsheet regularly, this can save a lot of time!
+Este recurso permite importar um arquivo .csv para atualizar a lista de produtos e estoque, o que pode ser muito mais rápido e eficiente do que adicionar produtos um por um. 
 
-The product and inventory import tool can be found by clicking **Products** in the horizontal blue menu, and **product import** in the green menu.
+Há quatro maneiras de usar essa ferramenta:
 
-There's four main ways you can use the tool:
+1. Importar novos [produtos](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8SSSACq0zWVc_eG_TG/recursos-basicos/products-1/@drafts)
+2. Atualizar os detalhes de produtos existentes
+3. Importar produtos para o[ Inventário](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8SSSACq0zWVc_eG_TG/recursos-basicos/products-1/inventory-tool/@drafts) de uma nova loja ou Central.
+4. Atualizar produtos do Inventário de uma loja ou Central.
 
-1. Import new [products](./)
-2. Update existing product details
-3. Import products to a new shop/hub [inventory](inventory-tool.md) 
-4. Update products in a shop/hub inventory
-
-{% hint style="info" %}
-If you need this functionality, please let [your local OFN](https://openfoodnetwork.org/ofn-local/) know. We welcome your feedback.
-{% endhint %}
-
-In all cases the process involves downloading a csv template, filling in the fields and then uploading your csv file back into OFN.
+Para todos os casos, o primeiro passo é fazer o download de um _template_ \(arquivo modelo\) de planilha .csv, preencher os campos e depois fazer o _upload_ do arquivo novamente na plataforma,
 
 {% hint style="warning" %}
-**Important note on CSV files**: Microsoft Excel does not open .cvs files directly.  
-If you can, we suggest you download the free Libre Office suite [https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/)  
-With Libre Office Calc, you will be able to open and edit CSV very easily and save them in the right encoding format UTF-8.  
-If you can't use Libre Office, then in order to open a CSV file in Microsoft Excel, you need to follow the following steps: [https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
+**Informação importante sobre arquivos CSV:** o Microsoft Excel não abre arquivos .csv diretamente. Se puder, sugerimos que você baixe gratuitamente o programa Libre Office Calc:  
+****[https://www.libreoffice.org/download/download/](https://www.libreoffice.org/download/download/)
+
+Com o Libre Office Calc, voce pode abrir e editar arquivos .csv facilmente, e salvar no formato correto UTF-8. Se você não puder usar o Libre Office, você precisará seguir os seguintes passos: 
+
+[https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba](https://support.office.com/en-gb/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
 {% endhint %}
 
 {% hint style="danger" %}
-Not all fields can be captured and uploaded/updated using this tool. Currently, [Images](products.md), [Properties](product-properties.md) and [Group Buy ](group-buy-for-bulk-ordering.md)Settings must be uploaded manually for each product.
-
-We hope to include these in future developments.
+Nem todos os detalhes do produto poderão importados e atualizados usando este recurso. No momento, as configurações de [imagens](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8SSSACq0zWVc_eG_TG/recursos-basicos/products-1/products/@drafts),[ propriedades ](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8SSSACq0zWVc_eG_TG/recursos-basicos/products-1/product-properties/@drafts)e [Compras em Grupo](https://app.gitbook.com/@ofn-brasil/s/guide-ofn/~/drafts/-M8SSSACq0zWVc_eG_TG/recursos-basicos/products-1/group-buy-for-bulk-ordering/@drafts) precisam ser definidas manualmente para cada produto. Esperamos incluir esses campos em futuras atualizações.
 {% endhint %}
 
-## Import New Products
+## Importar Novos Produtos
 
-Use these instructions if you want to add new products to a producer's profile.
+Siga estes passos para adicionar novos produtos a um perfil de produtor.
 
 {% hint style="success" %}
 You can simultaneously upload new products and update existing products with a single CSV upload. The instructions in this guide are separated for clarity but you can combine new products and updates in the same spreadsheet.
