@@ -24,7 +24,7 @@
     * [A ferramenta 'Inventário'](recursos-basicos/products-1/inventory-tool.md)
     * [Compra em Grupo - para compras em atacado](recursos-basicos/products-1/group-buy-for-bulk-ordering.md)
     * [Importar lista de produtos.](recursos-basicos/products-1/product-and-inventory-import.md)
-  * [Shopfront](recursos-basicos/shopfront/README.md)
+  * [Loja Virtual](recursos-basicos/shopfront/README.md)
     * [Shipping Methods](recursos-basicos/shopfront/shipping-methods.md)
     * [Payment Methods](recursos-basicos/shopfront/payment-methods.md)
     * [Enterprise Fees](recursos-basicos/shopfront/enterprise-fees.md)
